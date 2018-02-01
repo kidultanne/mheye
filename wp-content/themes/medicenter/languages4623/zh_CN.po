@@ -1,0 +1,5851 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: medicenter\n"
+"POT-Creation-Date: 2016-10-27 12:23+0800\n"
+"PO-Revision-Date: 2016-10-27 12:29+0800\n"
+"Last-Translator: zeusgeats <admin@4mudi.com>\n"
+"Language-Team: www.4mudi.com <admin@4mudi.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;__;_e;_x:1,2c;_n_noop:1,2;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:27 ../404.php:28 ../index.php:9 ../index.php:10 ../page.php:11
+#: ../page.php:12 ../search.php:14 ../search.php:15 ../single-features.php:15
+#: ../single-features.php:16 ../single.php:15 ../single.php:16
+#: ../template-blog.php:27 ../template-blog.php:28 ../woocommerce.php:14
+#: ../woocommerce.php:15
+msgid "Home"
+msgstr "首页"
+
+#: ../404.php:47
+msgid "404"
+msgstr "404"
+
+#: ../404.php:48
+msgid "Error 404"
+msgstr "错误404"
+
+#: ../admin/functions.php:29 ../admin/functions.php:43
+#: ../admin/functions.php:57 ../admin/functions.php:71
+#: ../admin/functions.php:85 ../admin/functions.php:123
+msgid "header"
+msgstr "页眉"
+
+#: ../admin/functions.php:33 ../admin/functions.php:47
+#: ../admin/functions.php:61 ../admin/functions.php:75
+#: ../admin/functions.php:89 ../admin/functions.php:99
+#: ../admin/functions.php:113 ../admin/functions.php:127
+msgid "footer top"
+msgstr "页脚顶部"
+
+#: ../admin/functions.php:37 ../admin/functions.php:51
+#: ../admin/functions.php:65 ../admin/functions.php:79
+#: ../admin/functions.php:93 ../admin/functions.php:103
+#: ../admin/functions.php:117 ../admin/functions.php:131
+msgid "footer bottom"
+msgstr "页脚底部"
+
+#: ../admin/functions.php:109
+msgid "top"
+msgstr "顶部"
+
+#: ../admin/functions.php:202 ../shortcodes/shortcodes.php:309
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: ../admin/functions.php:203
+msgid "Main Slider"
+msgstr "主要侧边栏"
+
+#: ../admin/functions.php:292
+msgid "Add list item"
+msgstr "添加列表项目"
+
+#: ../admin/functions.php:303
+msgid "Add New List Item"
+msgstr "添加新列表项目"
+
+#: ../admin/functions.php:307 ../class-tgm-plugin-activation.php:2642
+#: ../post-type-doctors.php:511 ../post-type-features.php:377
+#: ../post-type-gallery.php:499 ../shortcodes/icon.php:152
+#: ../shortcodes/items_list.php:108 ../shortcodes/notification_box.php:54
+#: ../shortcodes/shortcodes.php:575
+msgid "Type"
+msgstr "类型"
+
+#: ../admin/functions.php:310 ../shortcodes/items_list.php:97
+#: ../shortcodes/items_list.php:110
+msgid "Items list"
+msgstr "项目列表"
+
+#: ../admin/functions.php:311 ../shortcodes/items_list.php:110
+msgid "Info list"
+msgstr "信息列表"
+
+#: ../admin/functions.php:312 ../shortcodes/items_list.php:110
+msgid "Scrolling list"
+msgstr "滚动列表"
+
+#: ../admin/functions.php:313 ../shortcodes/items_list.php:110
+msgid "Simple list"
+msgstr "简单列表"
+
+#: ../admin/functions.php:318 ../theme-options.php:812
+msgid "Text"
+msgstr "文字"
+
+#: ../admin/functions.php:324
+msgid "Value"
+msgstr "值"
+
+#: ../admin/functions.php:330 ../shortcodes/icon.php:207
+#: ../shortcodes/shortcodes.php:747
+msgid "Url"
+msgstr "网址"
+
+#: ../admin/functions.php:336 ../shortcodes/icon.php:214
+msgid "Url target"
+msgstr "网址目标"
+
+#: ../admin/functions.php:339 ../post-type-doctors.php:151
+#: ../post-type-doctors.php:220 ../post-type-gallery.php:150
+#: ../post-type-gallery.php:197 ../shortcodes/icon.php:217
+#: ../widgets/widget-cart-icon.php:88
+msgid "new window"
+msgstr "新窗口"
+
+#: ../admin/functions.php:340 ../post-type-doctors.php:150
+#: ../post-type-doctors.php:219 ../post-type-gallery.php:149
+#: ../post-type-gallery.php:196 ../shortcodes/icon.php:218
+#: ../widgets/widget-cart-icon.php:87
+msgid "same window"
+msgstr "相同窗口"
+
+#: ../admin/functions.php:345 ../post-type-features.php:64
+#: ../post-type-features.php:228 ../shortcodes/icon.php:141
+#: ../shortcodes/icon.php:159 ../shortcodes/icon.php:167
+#: ../shortcodes/shortcodes.php:423
+msgid "Icon"
+msgstr "图标"
+
+#: ../admin/functions.php:348
+msgid "-"
+msgstr "-"
+
+#: ../admin/functions.php:349
+msgid "Left arrow black"
+msgstr "左箭头黑色"
+
+#: ../admin/functions.php:350
+msgid "Right arrow black"
+msgstr "右箭头黑色"
+
+#: ../admin/functions.php:351
+msgid "Top arrow black"
+msgstr "上箭头黑色"
+
+#: ../admin/functions.php:352
+msgid "Left arrow white"
+msgstr "左箭头白色"
+
+#: ../admin/functions.php:353
+msgid "Right arrow white"
+msgstr "右箭头白色"
+
+#: ../admin/functions.php:354
+msgid "Top arrow white"
+msgstr "上箭头白色"
+
+#: ../admin/functions.php:355
+msgid "Square"
+msgstr "方形"
+
+#: ../admin/functions.php:356
+msgid "Mark"
+msgstr "标记"
+
+#: ../admin/functions.php:357
+msgid "Tick"
+msgstr "打勾"
+
+#: ../admin/functions.php:362
+msgid "Custom text color"
+msgstr "自定义文字颜色"
+
+#: ../admin/functions.php:370
+msgid "Custom value color"
+msgstr "自定义值颜色"
+
+#: ../admin/functions.php:378
+msgid "Custom border color"
+msgstr "自定义边框颜色"
+
+#: ../admin/functions.php:382
+msgid "Set to <em>none</em> for no border"
+msgstr "无边框设置为<em>无</em>"
+
+#: ../admin/functions.php:387
+msgid "Add Item"
+msgstr "添加项目"
+
+#: ../admin/functions.php:387 ../woocommerce/myaccount/my-orders.php:92
+msgid "Cancel"
+msgstr "取消"
+
+#: ../class-tgm-plugin-activation.php:334 ../plugins_activator.php:56
+msgid "Install Required Plugins"
+msgstr "安装必须插件"
+
+#: ../class-tgm-plugin-activation.php:335 ../plugins_activator.php:57
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: ../class-tgm-plugin-activation.php:337 ../plugins_activator.php:58
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "安装插件: %s"
+
+#: ../class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "更新插件: %s"
+
+#: ../class-tgm-plugin-activation.php:340 ../plugins_activator.php:59
+msgid "Something went wrong with the plugin API."
+msgstr "插件API出现了一些错误。"
+
+#: ../class-tgm-plugin-activation.php:343 ../plugins_activator.php:60
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "主题需要安装以下插件：%1$s。"
+
+#: ../class-tgm-plugin-activation.php:349 ../plugins_activator.php:61
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "此主题推荐安装以下插件：%1$s"
+
+#: ../class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "以下插件需要更新到最新版本以确保与主题的最大兼容性：%1$s."
+
+#: ../class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "有可用的更新：%1$s."
+
+#: ../class-tgm-plugin-activation.php:367 ../plugins_activator.php:63
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下所需插件未激活：%1$s."
+
+#: ../class-tgm-plugin-activation.php:373 ../plugins_activator.php:64
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下推荐插件未激活：%1$s."
+
+#: ../class-tgm-plugin-activation.php:378 ../plugins_activator.php:68
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "开始安装插件"
+
+#: ../class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "开始更新插件"
+
+#: ../class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "开始激活插件"
+
+#: ../class-tgm-plugin-activation.php:392 ../plugins_activator.php:70
+msgid "Return to Required Plugins Installer"
+msgstr "返回到必装插件列表"
+
+#: ../class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "返回仪表盘"
+
+#: ../class-tgm-plugin-activation.php:394
+#: ../class-tgm-plugin-activation.php:3252 ../plugins_activator.php:71
+msgid "Plugin activated successfully."
+msgstr "插件激活成功"
+
+#: ../class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "以下插件激活成功"
+
+#: ../class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "不采取任何操作。插件%1$s已激活"
+
+#: ../class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "插件未激活。此主题需要一个高版本的%s。请更新插件"
+
+#: ../class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "全部插件安装并激活成功. %1$s"
+
+#: ../class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "关闭此通知"
+
+#: ../class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "有一个或多个必装或推荐插件要安装、更新或激活"
+
+#: ../class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "请联系本网站管理员获取帮助"
+
+#: ../class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: ../class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr "必须"
+
+#: ../class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr "推荐"
+
+#: ../class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr "WordPress资源库"
+
+#: ../class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr "外部来源"
+
+#: ../class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr "预包装"
+
+#: ../class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr "未安装"
+
+#: ../class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr "已安装但未激活"
+
+#: ../class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr "激活"
+
+#: ../class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr "所需更新不可用"
+
+#: ../class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr "需要更新"
+
+#: ../class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr "推荐更新"
+
+#: ../class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: ../class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#: ../class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr "已安装版本："
+
+#: ../class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr "最低需要版本："
+
+#: ../class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr "可用版本："
+
+#: ../class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr "插件"
+
+#: ../class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr "来源"
+
+#: ../class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr "版本"
+
+#: ../class-tgm-plugin-activation.php:2647
+#: ../woocommerce/myaccount/my-orders.php:27
+msgid "Status"
+msgstr "状态"
+
+#: ../class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr "安装%2$s"
+
+#: ../class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr "更新%2$s"
+
+#: ../class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr "激活%2$s"
+
+#: ../class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr "安装"
+
+#: ../class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr "更新"
+
+#: ../class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr "激活"
+
+#: ../class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "没有选择要安装的插件，不采取任何操作"
+
+#: ../class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "没有选择要更新的插件，不采取任何操作。"
+
+#: ../class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr "当前没有插件可以安装。"
+
+#: ../class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr "当前没有插件可以更新。"
+
+#: ../class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr "插件激活失败"
+
+#: ../class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "更新插件%1$s (%2$d/%3$d)"
+
+#: ../class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装%1$s时发生错误：<strong>%2$s</strong>."
+
+#: ../class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "安装 %1$s 失败."
+
+#: ../class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"安装和激活过程已经开始。在某些主机上，这个过程可能需要一段时间，所以请耐心等"
+"待。"
+
+#: ../class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s已安装并激活成功"
+
+#: ../class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr "已完成所有安装和激活。"
+
+#: ../class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安装并激活插件 %1$s (%2$d/%3$d)"
+
+#: ../class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安装过程开始。在某些主机上，这个过程可能需要一段时间，所以请耐心等待。"
+
+#: ../class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr "所有的安装已完成。"
+
+#: ../class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装插件：%1$s (%2$d/%3$d)"
+
+#: ../comments-form.php:7 ../shortcodes/single-post.php:117
+msgid "Leave a reply"
+msgstr "发表回复"
+
+#: ../comments-form.php:21
+msgid "Your Name"
+msgstr "您的名字"
+
+#: ../comments-form.php:25
+msgid "Your Email"
+msgstr "您的邮箱"
+
+#: ../comments-form.php:29 ../comments-functions.php:26
+msgid "Website (optional)"
+msgstr "网站（可选）"
+
+#: ../comments-form.php:35 ../comments-functions.php:72
+msgid "Message"
+msgstr "信息"
+
+#: ../comments-form.php:39 ../contact_form.php:91
+msgid "Send"
+msgstr "发送"
+
+#: ../comments-form.php:40
+msgid "Cancel reply"
+msgstr "取消回复"
+
+#: ../comments-functions.php:35
+msgid "Your comment has been added"
+msgstr "您的评论已添加。"
+
+#: ../comments-functions.php:62
+msgid "Error while adding comment"
+msgstr "添加注释错误"
+
+#: ../comments-functions.php:68
+msgid "Your name"
+msgstr "您的名字"
+
+#: ../comments-functions.php:69
+msgid "Please enter your name"
+msgstr "请输入你的名字"
+
+#: ../comments-functions.php:70
+msgid "Your email"
+msgstr "您的邮箱"
+
+#: ../comments-functions.php:71
+msgid "Please enter valid e-mail"
+msgstr "请输入有效的邮箱"
+
+#: ../comments-functions.php:73
+msgid "Please enter your message"
+msgstr "输入您的信息"
+
+#: ../comments.php:12 ../shortcodes/blog.php:102 ../shortcodes/blog.php:219
+#: ../shortcodes/single-post.php:58
+msgid "comments"
+msgstr "条评论"
+
+#: ../comments.php:12 ../shortcodes/blog.php:102 ../shortcodes/blog.php:219
+#: ../shortcodes/single-post.php:58
+msgid "comment"
+msgstr "条评论"
+
+#: ../comments.php:70
+msgid "Posted by "
+msgstr "作者："
+
+#: ../comments.php:71
+msgid " on"
+msgstr " "
+
+#: ../comments.php:72
+#, php-format
+msgid " %1$s, %2$s"
+msgstr " %1$s, %2$s"
+
+#: ../comments.php:73
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: ../comments.php:76
+msgid "Show comment"
+msgstr "显示评论"
+
+#: ../comments.php:77
+msgid "in reply to "
+msgstr "回复给："
+
+#: ../comments.php:84
+msgid "Reply"
+msgstr "回复"
+
+#: ../comments.php:85
+msgid "Reply &rarr;"
+msgstr "回复&rarr;"
+
+#: ../contact_form.php:8 ../contact_form.php:123
+msgid "Online Appointment Form "
+msgstr "在线预约表"
+
+#: ../contact_form.php:11 ../contact_form.php:144
+msgid "Select department"
+msgstr "选择部门"
+
+#: ../contact_form.php:57
+msgid "First Name"
+msgstr "名字"
+
+#: ../contact_form.php:61
+msgid "Date of Birth (mm/dd/yyyy)"
+msgstr "生日 (mm/dd/yyyy)"
+
+#: ../contact_form.php:65
+msgid "Phone Number"
+msgstr "电话号码"
+
+#: ../contact_form.php:71
+msgid "Last Name"
+msgstr "姓氏"
+
+#: ../contact_form.php:75
+msgid "Social Security Number"
+msgstr "社会安全号码"
+
+#: ../contact_form.php:79
+msgid "E-mail"
+msgstr "邮箱"
+
+#: ../contact_form.php:85
+msgid "Reason of Appointment"
+msgstr "预约理由"
+
+#: ../contact_form.php:102
+msgid "Contact form"
+msgstr "联系表"
+
+#: ../contact_form.php:108 ../post-type-doctors.php:478
+#: ../post-type-features.php:358 ../post-type-gallery.php:466
+#: ../shortcodes/announcement_box.php:49 ../shortcodes/blog.php:284
+#: ../shortcodes/carousel.php:392 ../shortcodes/icon.php:147
+#: ../shortcodes/items_list.php:103 ../shortcodes/map.php:88
+#: ../shortcodes/notification_box.php:36 ../shortcodes/photostream.php:130
+#: ../shortcodes/pricing_table.php:24 ../shortcodes/shortcodes.php:562
+#: ../shortcodes/shortcodes.php:639 ../shortcodes/shortcodes.php:733
+#: ../shortcodes/shortcodes.php:779 ../shortcodes/single-post.php:198
+#: ../shortcodes/small_slider.php:362 ../shortcodes/testimonials.php:220
+#: ../shortcodes/timetable.php:436
+msgid "MediCenter"
+msgstr "医疗中心"
+
+#: ../contact_form.php:113 ../post-type-doctors.php:573
+#: ../post-type-gallery.php:561 ../shortcodes/carousel.php:167
+#: ../shortcodes/map.php:101 ../shortcodes/photostream.php:135
+#: ../shortcodes/pricing_table.php:29 ../shortcodes/shortcodes.php:644
+#: ../shortcodes/small_slider.php:138 ../shortcodes/testimonials.php:62
+msgid "Id"
+msgstr "Id"
+
+#: ../contact_form.php:116
+msgid "Please provide unique id for each contact form on the same page/post"
+msgstr "请在相同页面/文章为每个联系表提供唯一ID"
+
+#: ../contact_form.php:121 ../post-type-doctors.php:483
+#: ../post-type-gallery.php:471 ../shortcodes/announcement_box.php:55
+#: ../shortcodes/carousel.php:175 ../shortcodes/items_list.php:116
+#: ../shortcodes/notification_box.php:41 ../shortcodes/testimonials.php:70
+#: ../theme-options.php:839 ../theme-options.php:1852
+msgid "Header"
+msgstr "页眉"
+
+#: ../contact_form.php:128 ../post-type-doctors.php:490
+#: ../post-type-gallery.php:478 ../shortcodes/carousel.php:182
+#: ../shortcodes/items_list.php:123 ../shortcodes/testimonials.php:77
+msgid "Header border animation"
+msgstr "页眉边框动画"
+
+#: ../contact_form.php:130 ../contact_form.php:137
+#: ../layout_picker/layout_picker.php:96 ../meta-box.php:120
+#: ../post-type-doctors.php:342 ../post-type-doctors.php:492
+#: ../post-type-gallery.php:319 ../post-type-gallery.php:480
+#: ../shortcodes/carousel.php:184 ../shortcodes/items_list.php:125
+#: ../shortcodes/map.php:170 ../shortcodes/map.php:177
+#: ../shortcodes/map.php:184 ../shortcodes/shortcodes.php:584
+#: ../shortcodes/shortcodes.php:591 ../shortcodes/testimonials.php:79
+#: ../sidebars.php:106 ../sidebars.php:167 ../theme-options.php:930
+#: ../theme-options.php:940 ../theme-options.php:958 ../theme-options.php:987
+#: ../theme-options.php:1072 ../theme-options.php:1081
+#: ../widgets/widget-appointment.php:134 ../widgets/widget-cart-icon.php:81
+#: ../widgets/widget-contact-details.php:199
+#: ../widgets/widget-departments.php:174
+#: ../widgets/widget-scrolling-most-commented.php:103
+#: ../widgets/widget-scrolling-most-viewed.php:102
+#: ../widgets/widget-scrolling-recent-posts.php:95
+#: ../widgets/widget-twitter.php:114
+msgid "no"
+msgstr "否"
+
+#: ../contact_form.php:130 ../contact_form.php:137
+#: ../layout_picker/layout_picker.php:95 ../meta-box.php:119
+#: ../post-type-doctors.php:341 ../post-type-doctors.php:492
+#: ../post-type-gallery.php:318 ../post-type-gallery.php:480
+#: ../shortcodes/carousel.php:184 ../shortcodes/items_list.php:125
+#: ../shortcodes/map.php:170 ../shortcodes/map.php:177
+#: ../shortcodes/map.php:184 ../shortcodes/shortcodes.php:584
+#: ../shortcodes/shortcodes.php:591 ../shortcodes/testimonials.php:79
+#: ../sidebars.php:107 ../sidebars.php:167 ../theme-options.php:931
+#: ../theme-options.php:939 ../theme-options.php:959 ../theme-options.php:986
+#: ../theme-options.php:1071 ../theme-options.php:1080
+#: ../widgets/widget-appointment.php:135 ../widgets/widget-cart-icon.php:80
+#: ../widgets/widget-contact-details.php:200
+#: ../widgets/widget-departments.php:175
+#: ../widgets/widget-scrolling-most-commented.php:104
+#: ../widgets/widget-scrolling-most-viewed.php:103
+#: ../widgets/widget-scrolling-recent-posts.php:96
+#: ../widgets/widget-twitter.php:115
+msgid "yes"
+msgstr "是"
+
+#: ../contact_form.php:135
+msgid "Display department select box"
+msgstr "显示部门选择框"
+
+#: ../contact_form.php:142
+msgid "Department select box title"
+msgstr "部门选择框标题"
+
+#: ../contact_form.php:149 ../post-type-doctors.php:767
+#: ../post-type-features.php:464 ../post-type-gallery.php:755
+#: ../shortcodes/announcement_box.php:181 ../shortcodes/blog.php:514
+#: ../shortcodes/carousel.php:380 ../shortcodes/icon.php:239
+#: ../shortcodes/items_list.php:180 ../shortcodes/map.php:224
+#: ../shortcodes/notification_box.php:100 ../shortcodes/photostream.php:196
+#: ../shortcodes/pricing_table.php:36 ../shortcodes/shortcodes.php:80
+#: ../shortcodes/shortcodes.php:101 ../shortcodes/shortcodes.php:261
+#: ../shortcodes/shortcodes.php:322 ../shortcodes/shortcodes.php:483
+#: ../shortcodes/shortcodes.php:605 ../shortcodes/shortcodes.php:708
+#: ../shortcodes/small_slider.php:350 ../shortcodes/testimonials.php:208
+#: ../shortcodes/timetable.php:491
+msgid "Top margin"
+msgstr "上边距"
+
+#: ../contact_form.php:151 ../post-type-doctors.php:769
+#: ../post-type-features.php:466 ../post-type-gallery.php:757
+#: ../shortcodes/announcement_box.php:183 ../shortcodes/blog.php:516
+#: ../shortcodes/carousel.php:382 ../shortcodes/icon.php:241
+#: ../shortcodes/items_list.php:132 ../shortcodes/items_list.php:182
+#: ../shortcodes/map.php:226 ../shortcodes/notification_box.php:102
+#: ../shortcodes/photostream.php:198 ../shortcodes/pricing_table.php:38
+#: ../shortcodes/shortcodes.php:82 ../shortcodes/shortcodes.php:103
+#: ../shortcodes/shortcodes.php:263 ../shortcodes/shortcodes.php:324
+#: ../shortcodes/shortcodes.php:485 ../shortcodes/shortcodes.php:607
+#: ../shortcodes/shortcodes.php:710 ../shortcodes/small_slider.php:352
+#: ../shortcodes/testimonials.php:210 ../shortcodes/timetable.php:493
+msgid "Page (small)"
+msgstr "页面（小）"
+
+#: ../contact_form.php:151 ../post-type-doctors.php:769
+#: ../post-type-features.php:466 ../post-type-gallery.php:757
+#: ../shortcodes/announcement_box.php:183 ../shortcodes/blog.php:516
+#: ../shortcodes/carousel.php:382 ../shortcodes/icon.php:241
+#: ../shortcodes/items_list.php:132 ../shortcodes/items_list.php:182
+#: ../shortcodes/map.php:226 ../shortcodes/notification_box.php:102
+#: ../shortcodes/photostream.php:198 ../shortcodes/pricing_table.php:38
+#: ../shortcodes/shortcodes.php:82 ../shortcodes/shortcodes.php:103
+#: ../shortcodes/shortcodes.php:263 ../shortcodes/shortcodes.php:324
+#: ../shortcodes/shortcodes.php:485 ../shortcodes/shortcodes.php:607
+#: ../shortcodes/shortcodes.php:710 ../shortcodes/small_slider.php:352
+#: ../shortcodes/testimonials.php:210 ../shortcodes/timetable.php:493
+msgid "Section (large)"
+msgstr "栏目（大）"
+
+#: ../contact_form.php:151 ../post-type-doctors.php:769
+#: ../post-type-features.php:466 ../post-type-gallery.php:757
+#: ../shortcodes/announcement_box.php:183 ../shortcodes/blog.php:516
+#: ../shortcodes/carousel.php:382 ../shortcodes/icon.php:241
+#: ../shortcodes/items_list.php:132 ../shortcodes/items_list.php:182
+#: ../shortcodes/map.php:226 ../shortcodes/notification_box.php:102
+#: ../shortcodes/photostream.php:198 ../shortcodes/pricing_table.php:38
+#: ../shortcodes/shortcodes.php:82 ../shortcodes/shortcodes.php:103
+#: ../shortcodes/shortcodes.php:172 ../shortcodes/shortcodes.php:187
+#: ../shortcodes/shortcodes.php:263 ../shortcodes/shortcodes.php:324
+#: ../shortcodes/shortcodes.php:333 ../shortcodes/shortcodes.php:485
+#: ../shortcodes/shortcodes.php:607 ../shortcodes/shortcodes.php:710
+#: ../shortcodes/small_slider.php:352 ../shortcodes/testimonials.php:210
+#: ../shortcodes/timetable.php:493
+msgid "None"
+msgstr "无"
+
+#: ../contact_form.php:227
+msgid "Thank you for contacting us"
+msgstr "谢谢联系我们。"
+
+#: ../contact_form.php:231
+msgid "Sorry, we can't send this message"
+msgstr "对不起，我们无法发送此信息"
+
+#: ../contact_form.php:238
+msgid "Please enter your first name."
+msgstr "请输入你的名字"
+
+#: ../contact_form.php:240
+msgid "Please enter your last name."
+msgstr "请输入你的姓氏"
+
+#: ../contact_form.php:242
+msgid "Please enter valid e-mail."
+msgstr "请输入有效的邮箱"
+
+#: ../contact_form.php:244
+msgid "Please enter your message."
+msgstr "请输入您的信息"
+
+#: ../functions.php:540
+msgid "Blog post thumbnail"
+msgstr "博客文章缩略图"
+
+#: ../functions.php:541
+msgid "Gallery image"
+msgstr "相册图片"
+
+#: ../functions.php:542
+msgid "Gallery thumbnail"
+msgstr "相册缩略图"
+
+#: ../functions.php:543
+msgid "Small thumbnail"
+msgstr "小缩略图"
+
+#: ../functions.php:577
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: ../functions.php:578
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: ../functions.php:583
+msgid "Add to cart"
+msgstr "加入购物车"
+
+#: ../importer/parsers.php:42 ../importer/parsers.php:72
+#: ../importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr "当阅读此WXR文件时有一个错误"
+
+#: ../importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr "详情如上所示。现在导入器将再次尝试用不同的分析器..."
+
+#: ../importer/parsers.php:84 ../importer/parsers.php:89
+#: ../importer/parsers.php:279 ../importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "这似乎并非是WXR文件,丢失/无效WXR版本号"
+
+#: ../importer/wordpress-importer.php:134
+#: ../importer/wordpress-importer.php:143
+#: ../importer/wordpress-importer.php:194
+#: ../importer/wordpress-importer.php:198
+#: ../importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr "对不起，发生了一些错误"
+
+#: ../importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr "此文件不存在，请重试。"
+
+#: ../importer/wordpress-importer.php:178
+msgid "All done."
+msgstr "全部完成！"
+
+#: ../importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr "祝你玩的愉快！"
+
+#: ../importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "记住更新密码并导入用户角色。"
+
+#: ../importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr "在<code>%s</code>找不到导出文件。这可能是由于权限问题"
+
+#: ../importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr "此WXR文件（版本%s）可能不支持这个版本的进口商。请考虑更新。"
+
+#: ../importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr "导入作者%s失败，他们的文章将归于当前用户。"
+
+#: ../importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr "指定作者"
+
+#: ../importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"为了便于您编辑和保存导入的内容，你可能要重新分配导入项目的作者到本网站的现有"
+"用户。例如，您可能要导入为<code>admin</code>项的所有条目"
+
+#: ../importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"如果在WordPress中创建一个新用户，将随机生成一个新的密码和新用户的角色将被设定"
+"为%s。手动更改新用户的详细信息将是必要的。"
+
+#: ../importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr "导入附件"
+
+#: ../importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr "下载并导入文件附件"
+
+#: ../importer/wordpress-importer.php:286
+#: ../woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr "提交"
+
+#: ../importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr "导入作者："
+
+#: ../importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr "或者创建新用户登录名："
+
+#: ../importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr "作为新用户："
+
+#: ../importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr "文章分配给现有用户："
+
+#: ../importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr "或分配文章给现有用户"
+
+#: ../importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr "- 选择 -"
+
+#: ../importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr "无法创建%s的新用户。它们的文章将分配给当前用户。"
+
+#: ../importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr "导入分类%s失败"
+
+#: ../importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "导入文章标签%s失败"
+
+#: ../importer/wordpress-importer.php:511
+#: ../importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "导入%s %s失败"
+
+#: ../importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "导入%s失败：无效的文章类型%s"
+
+#: ../importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; 已存在"
+
+#: ../importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "无法导入 %s &#8220;%s&#8221;"
+
+#: ../importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr "由于缺少菜单别名忽略菜单项"
+
+#: ../importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "忽略菜单项，由于缺少菜单别名：%s"
+
+#: ../importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr "获取附件未启用"
+
+#: ../importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr "文件类型无效"
+
+#: ../importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr "远程服务器没有响应"
+
+#: ../importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "远程服务器返回错误%1$d %2$s"
+
+#: ../importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr "远程文件大小不正确"
+
+#: ../importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr "零大小文件已下载"
+
+#: ../importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "远程文件过大，上限是%s"
+
+#: ../importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr "导入wordpress"
+
+#: ../importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr "导入器有一个新版本可用。请升级版本%s以确保新导入文件的兼容性。"
+
+#: ../importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"你好！上传您的WordPress eXtended RSS（WXR）文件，我们将导入到本网站的文章，网"
+"页，评论，自定义字段，类别，标签。"
+
+#: ../importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "选择要上传的WXR (.xml) 文件，然后点击上传文件并导入。"
+
+#: ../index.php:6 ../index.php:17
+msgid "Latest Posts"
+msgstr "最新文章"
+
+#: ../layout_picker/layout_picker.php:6 ../post-type-doctors.php:518
+#: ../post-type-gallery.php:506
+msgid "Layout"
+msgstr "布局"
+
+#: ../layout_picker/layout_picker.php:10
+msgid "Wide"
+msgstr "全宽"
+
+#: ../layout_picker/layout_picker.php:11
+msgid "Boxed"
+msgstr "框式"
+
+#: ../layout_picker/layout_picker.php:12
+msgid "Full width"
+msgstr "全宽"
+
+#: ../layout_picker/layout_picker.php:16
+msgid "Color Skin"
+msgstr "颜色皮肤"
+
+#: ../layout_picker/layout_picker.php:42
+msgid "Header type"
+msgstr "页眉类型"
+
+#: ../layout_picker/layout_picker.php:46 ../shortcodes/blog.php:313
+#: ../shortcodes/single-post.php:212 ../theme-options.php:1858
+msgid "Type 1"
+msgstr "类型1"
+
+#: ../layout_picker/layout_picker.php:47 ../shortcodes/blog.php:313
+#: ../shortcodes/single-post.php:212 ../theme-options.php:1859
+msgid "Type 2"
+msgstr "类型2"
+
+#: ../layout_picker/layout_picker.php:48 ../theme-options.php:1860
+msgid "Type 3"
+msgstr "类型3"
+
+#: ../layout_picker/layout_picker.php:49 ../theme-options.php:1861
+msgid "Type 4"
+msgstr "类型4"
+
+#: ../layout_picker/layout_picker.php:53
+msgid "Top sidebar"
+msgstr "顶部侧边栏"
+
+#: ../layout_picker/layout_picker.php:57 ../layout_picker/layout_picker.php:67
+#: ../layout_picker/layout_picker.php:78 ../post-type-doctors.php:534
+#: ../post-type-doctors.php:541 ../post-type-doctors.php:584
+#: ../post-type-doctors.php:592 ../post-type-doctors.php:684
+#: ../post-type-doctors.php:706 ../post-type-doctors.php:722
+#: ../post-type-doctors.php:729 ../post-type-features.php:407
+#: ../post-type-features.php:414 ../post-type-features.php:421
+#: ../post-type-features.php:428 ../post-type-gallery.php:522
+#: ../post-type-gallery.php:529 ../post-type-gallery.php:572
+#: ../post-type-gallery.php:580 ../post-type-gallery.php:672
+#: ../post-type-gallery.php:694 ../post-type-gallery.php:710
+#: ../post-type-gallery.php:717 ../shortcodes/blog.php:291
+#: ../shortcodes/blog.php:350 ../shortcodes/blog.php:357
+#: ../shortcodes/blog.php:364 ../shortcodes/blog.php:371
+#: ../shortcodes/blog.php:378 ../shortcodes/blog.php:386
+#: ../shortcodes/blog.php:394 ../shortcodes/blog.php:470
+#: ../shortcodes/blog.php:477 ../shortcodes/carousel.php:243
+#: ../shortcodes/carousel.php:283 ../shortcodes/carousel.php:290
+#: ../shortcodes/items_list.php:159 ../shortcodes/photostream.php:159
+#: ../shortcodes/shortcodes.php:111 ../shortcodes/shortcodes.php:134
+#: ../shortcodes/shortcodes.php:153 ../shortcodes/single-post.php:219
+#: ../shortcodes/single-post.php:226 ../shortcodes/single-post.php:233
+#: ../shortcodes/single-post.php:240 ../shortcodes/single-post.php:320
+#: ../shortcodes/single-post.php:328 ../shortcodes/single-post.php:336
+#: ../shortcodes/small_slider.php:206 ../shortcodes/small_slider.php:246
+#: ../shortcodes/small_slider.php:253 ../shortcodes/small_slider.php:260
+#: ../shortcodes/testimonials.php:111 ../shortcodes/testimonials.php:118
+msgid "Yes"
+msgstr "是"
+
+#: ../layout_picker/layout_picker.php:58 ../layout_picker/layout_picker.php:68
+#: ../layout_picker/layout_picker.php:77 ../post-type-doctors.php:534
+#: ../post-type-doctors.php:541 ../post-type-doctors.php:584
+#: ../post-type-doctors.php:592 ../post-type-doctors.php:684
+#: ../post-type-doctors.php:706 ../post-type-doctors.php:722
+#: ../post-type-doctors.php:729 ../post-type-features.php:407
+#: ../post-type-features.php:414 ../post-type-features.php:421
+#: ../post-type-features.php:428 ../post-type-gallery.php:522
+#: ../post-type-gallery.php:529 ../post-type-gallery.php:572
+#: ../post-type-gallery.php:580 ../post-type-gallery.php:672
+#: ../post-type-gallery.php:694 ../post-type-gallery.php:710
+#: ../post-type-gallery.php:717 ../shortcodes/blog.php:291
+#: ../shortcodes/blog.php:350 ../shortcodes/blog.php:357
+#: ../shortcodes/blog.php:364 ../shortcodes/blog.php:371
+#: ../shortcodes/blog.php:378 ../shortcodes/blog.php:386
+#: ../shortcodes/blog.php:394 ../shortcodes/blog.php:470
+#: ../shortcodes/blog.php:477 ../shortcodes/carousel.php:243
+#: ../shortcodes/carousel.php:283 ../shortcodes/carousel.php:290
+#: ../shortcodes/items_list.php:159 ../shortcodes/photostream.php:159
+#: ../shortcodes/single-post.php:219 ../shortcodes/single-post.php:226
+#: ../shortcodes/single-post.php:233 ../shortcodes/single-post.php:240
+#: ../shortcodes/single-post.php:320 ../shortcodes/single-post.php:328
+#: ../shortcodes/single-post.php:336 ../shortcodes/small_slider.php:206
+#: ../shortcodes/small_slider.php:246 ../shortcodes/small_slider.php:253
+#: ../shortcodes/small_slider.php:260 ../shortcodes/testimonials.php:111
+#: ../shortcodes/testimonials.php:118
+msgid "No"
+msgstr "否"
+
+#: ../layout_picker/layout_picker.php:63
+msgid "2nd sidebar"
+msgstr "第二侧边栏"
+
+#: ../layout_picker/layout_picker.php:73
+msgid "Sticky Menu"
+msgstr "粘性菜单"
+
+#: ../layout_picker/layout_picker.php:82 ../theme-options.php:964
+msgid "Direction"
+msgstr "方向"
+
+#: ../layout_picker/layout_picker.php:86 ../theme-options.php:968
+msgid "LTR"
+msgstr "从左到右"
+
+#: ../layout_picker/layout_picker.php:87 ../theme-options.php:969
+msgid "RTL"
+msgstr "从右到左"
+
+#: ../layout_picker/layout_picker.php:91 ../theme-options.php:974
+msgid "Animations"
+msgstr "动画"
+
+#: ../meta-box.php:8 ../meta-box.php:16 ../post-type-departments.php:131
+#: ../post-type-doctors.php:40 ../post-type-features.php:40
+#: ../post-type-gallery.php:40 ../sidebars.php:42
+msgid "Options"
+msgstr "选项"
+
+#: ../meta-box.php:54 ../post-type-doctors.php:272 ../post-type-gallery.php:249
+msgid "Additional featured images"
+msgstr "附加特色图像"
+
+#: ../meta-box.php:65 ../post-type-doctors.php:283 ../post-type-gallery.php:260
+msgid "Image url"
+msgstr "图片网址"
+
+#: ../meta-box.php:70 ../post-type-doctors.php:288 ../post-type-gallery.php:265
+#: ../theme-options.php:1040
+msgid "Browse"
+msgstr "浏览"
+
+#: ../meta-box.php:75 ../post-type-doctors.php:293 ../post-type-gallery.php:270
+msgid "Image description"
+msgstr "图片描述"
+
+#: ../meta-box.php:83 ../post-type-doctors.php:301 ../post-type-gallery.php:278
+#: ../shortcodes/carousel.php:198 ../shortcodes/small_slider.php:169
+msgid "Video url"
+msgstr "视频地址"
+
+#: ../meta-box.php:91 ../post-type-doctors.php:309 ../post-type-gallery.php:286
+#: ../shortcodes/carousel.php:207 ../shortcodes/small_slider.php:178
+msgid "Iframe url"
+msgstr "框架网址"
+
+#: ../meta-box.php:99 ../post-type-doctors.php:317 ../post-type-gallery.php:294
+#: ../shortcodes/carousel.php:215 ../shortcodes/small_slider.php:186
+msgid "External url"
+msgstr "外部网址"
+
+#: ../meta-box.php:110 ../post-type-doctors.php:331
+#: ../post-type-gallery.php:308
+msgid "Add image"
+msgstr "添加图像"
+
+#: ../meta-box.php:115
+msgid "Features images lightbox loop"
+msgstr "特色图像灯箱循环"
+
+#: ../meta-box.php:126
+msgid "Show featured images lightbox"
+msgstr "显示特色图像灯箱"
+
+#: ../meta-box.php:130
+msgid "in single post"
+msgstr "在文章"
+
+#: ../meta-box.php:131
+msgid "on post list"
+msgstr "在文章列表"
+
+#: ../meta-box.php:132
+msgid "both"
+msgstr "两者"
+
+#: ../plugins_activator.php:62
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] "对不起，您没有权限安装%s插件，请联系网站管理员获取帮助。"
+
+#: ../plugins_activator.php:65
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] "对不起，你没有权限激活%s插件，请联系此网站管理员获取帮助激活插件。"
+
+#: ../plugins_activator.php:66
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s.  Please check update "
+"instructions <a href=\"http://support.quanticalabs.com/forum/topic/6423/faq-"
+"frequently-asked-questions#question_55\">here</a>."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s.  Please check update "
+"instructions <a href=\"http://support.quanticalabs.com/forum/topic/6423/faq-"
+"frequently-asked-questions#question_55\">here</a>."
+msgstr[0] ""
+"以下插件需要更新到最新的版本，以确保与这一主题的最大兼容性: %1$s。 请<a href="
+"\"http://support.quanticalabs.com/forum/topic/6423/faq-frequently-asked-"
+"questions#question_55\">在这里</a>检查更新说明。"
+
+#: ../plugins_activator.php:67
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] "对不起，你没有权限更新%s插件，请联系此网站管理员获取帮助激活插件。"
+
+#: ../plugins_activator.php:69
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "激活已安装插件"
+
+#: ../plugins_activator.php:72
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "所有插件已安装并启用成功。%s"
+
+#: ../post-type-departments.php:9
+msgctxt "post type general name"
+msgid "Departments"
+msgstr "部门"
+
+#: ../post-type-departments.php:10
+msgctxt "post type singular name"
+msgid "Department"
+msgstr "部门"
+
+#: ../post-type-departments.php:11
+msgctxt "departments"
+msgid "Add New"
+msgstr "添加"
+
+#: ../post-type-departments.php:12
+msgid "Add New Department"
+msgstr "添加部门"
+
+#: ../post-type-departments.php:13
+msgid "Edit Department"
+msgstr "编辑部门"
+
+#: ../post-type-departments.php:14
+msgid "New Department"
+msgstr "新部门"
+
+#: ../post-type-departments.php:15 ../post-type-gallery.php:554
+#: ../shortcodes/timetable.php:11 ../shortcodes/timetable.php:486
+msgid "All Departments"
+msgstr "所有部门"
+
+#: ../post-type-departments.php:16
+msgid "View Department"
+msgstr "查看部门"
+
+#: ../post-type-departments.php:17
+msgid "Search Department"
+msgstr "搜索部门"
+
+#: ../post-type-departments.php:18
+msgid "No departments found"
+msgstr "未找到部门"
+
+#: ../post-type-departments.php:19
+msgid "No departments found in Trash"
+msgstr "回收站没有部门"
+
+#: ../post-type-departments.php:21
+msgid "Departments"
+msgstr "部门"
+
+#: ../post-type-departments.php:124
+msgid "Department hours"
+msgstr "部门营业时间"
+
+#: ../post-type-departments.php:204 ../post-type-departments.php:267
+msgid "Tooltip"
+msgstr "提示"
+
+#: ../post-type-departments.php:206 ../post-type-departments.php:251
+msgid "Before hour text"
+msgstr "营业时间文字之前"
+
+#: ../post-type-departments.php:208 ../post-type-departments.php:259
+msgid "After hour text"
+msgstr "营业时间文字之后"
+
+#: ../post-type-departments.php:210
+msgid "doctors"
+msgstr "医生"
+
+#: ../post-type-departments.php:212 ../post-type-departments.php:300
+msgid "Category"
+msgstr "分类"
+
+#: ../post-type-departments.php:222
+msgid "Day"
+msgstr "天"
+
+#: ../post-type-departments.php:233
+msgid "Start hour"
+msgstr "开始时间"
+
+#: ../post-type-departments.php:242
+msgid "End hour"
+msgstr "结束时间"
+
+#: ../post-type-departments.php:278 ../post-type-departments.php:332
+#: ../post-type-doctors.php:18
+msgid "Doctors"
+msgstr "医生"
+
+#: ../post-type-departments.php:308
+msgid "Add"
+msgstr "添加"
+
+#: ../post-type-departments.php:354 ../theme-options.php:1724
+msgid "Timetable box background color"
+msgstr "时间表框背景颜色"
+
+#: ../post-type-departments.php:359
+msgid "Required when 'Timetable box hover color' isn't empty"
+msgstr "当时间表框悬停颜色不为空时必填"
+
+#: ../post-type-departments.php:364 ../theme-options.php:1731
+msgid "Timetable box hover background color"
+msgstr "时间表框悬停背景颜色"
+
+#: ../post-type-departments.php:373 ../theme-options.php:1738
+msgid "Timetable box text color"
+msgstr "时间表框文字颜色"
+
+#: ../post-type-departments.php:378
+msgid "Required when 'Timetable box hover text color' isn't empty"
+msgstr "当时间表框悬停文字颜色不为空时必填"
+
+#: ../post-type-departments.php:383 ../theme-options.php:1745
+msgid "Timetable box hover text color"
+msgstr "时间表框悬停文字颜色"
+
+#: ../post-type-departments.php:392 ../theme-options.php:1752
+msgid "Timetable box hours text color"
+msgstr "时间表框营业时间文字颜色"
+
+#: ../post-type-departments.php:397
+msgid "Required when 'Timetable box hover hours text color' isn't empty"
+msgstr "当时间表框悬停营业时间文字颜色不为空时必填"
+
+#: ../post-type-departments.php:402 ../theme-options.php:1759
+msgid "Timetable box hover hours text color"
+msgstr "时间表框悬停营业时间文字颜色"
+
+#: ../post-type-departments.php:411
+msgid "Timetable custom URL"
+msgstr "时间表自定义网址"
+
+#: ../post-type-departments.php:482 ../post-type-doctors.php:401
+#: ../post-type-features.php:226 ../post-type-gallery.php:377
+msgctxt "post type singular name"
+msgid "Title"
+msgstr "标题"
+
+#: ../post-type-departments.php:483 ../post-type-doctors.php:402
+#: ../post-type-features.php:227 ../post-type-gallery.php:381
+#: ../widgets/widget-departments.php:186
+msgid "Categories"
+msgstr "分类"
+
+#: ../post-type-departments.php:484 ../post-type-doctors.php:403
+#: ../post-type-doctors.php:499 ../post-type-features.php:229
+#: ../post-type-features.php:393 ../post-type-gallery.php:382
+#: ../post-type-gallery.php:487 ../post-type-weekdays.php:43
+#: ../shortcodes/blog.php:336 ../sidebars.php:150
+#: ../woocommerce/myaccount/my-orders.php:26
+msgid "Date"
+msgstr "日期"
+
+#: ../post-type-departments.php:545 ../post-type-doctors.php:513
+#: ../post-type-gallery.php:501 ../widgets/widget-departments.php:103
+msgid "Details"
+msgstr "详情"
+
+#: ../post-type-departments.php:546 ../shortcodes/timetable.php:430
+#: ../widgets/widget-departments.php:102
+msgid "Timetable"
+msgstr "时间表"
+
+#: ../post-type-doctors.php:6
+msgctxt "post type general name"
+msgid "Doctors"
+msgstr "医生"
+
+#: ../post-type-doctors.php:7
+msgctxt "post type singular name"
+msgid "Doctor"
+msgstr "医生"
+
+#: ../post-type-doctors.php:8
+msgctxt "doctors"
+msgid "Add New"
+msgstr "添加"
+
+#: ../post-type-doctors.php:9
+msgid "Add New Doctor"
+msgstr "添加医生"
+
+#: ../post-type-doctors.php:10
+msgid "Edit Doctor"
+msgstr "编辑医生"
+
+#: ../post-type-doctors.php:11
+msgid "New Doctor"
+msgstr "新医生"
+
+#: ../post-type-doctors.php:12 ../post-type-doctors.php:566
+msgid "All Doctors"
+msgstr "所有医生"
+
+#: ../post-type-doctors.php:13
+msgid "View Doctor"
+msgstr "查看医生"
+
+#: ../post-type-doctors.php:14
+msgid "Search Doctor"
+msgstr "搜索医生"
+
+#: ../post-type-doctors.php:15
+msgid "No doctors found"
+msgstr "未找到医生"
+
+#: ../post-type-doctors.php:16
+msgid "No doctors found in Trash"
+msgstr "回收站没有医生"
+
+#: ../post-type-doctors.php:105 ../post-type-gallery.php:104
+#: ../shortcodes/small_slider.php:153
+msgid "Subtitle"
+msgstr "子标题"
+
+#: ../post-type-doctors.php:113 ../post-type-gallery.php:112
+msgid "Featured image description"
+msgstr "特色图像描述"
+
+#: ../post-type-doctors.php:121 ../post-type-gallery.php:120
+msgid "Video URL (optional)"
+msgstr "视频网址（可选）"
+
+#: ../post-type-doctors.php:125 ../post-type-gallery.php:124
+#: ../shortcodes/carousel.php:202 ../shortcodes/small_slider.php:173
+msgid ""
+"For Vimeo please use http://player.vimeo.com/video/%video_id% For YouTube: "
+"http://youtube.com/embed/%video_id%"
+msgstr ""
+"Vimeo请使用http://player.vimeo.com/video/%video_id%   YouTube: http://"
+"youtube.com/embed/%video_id%"
+
+#: ../post-type-doctors.php:130 ../post-type-gallery.php:129
+msgid "Ifame URL (optional)"
+msgstr "框架网址（可选）"
+
+#: ../post-type-doctors.php:138 ../post-type-gallery.php:137
+msgid "External URL (optional)"
+msgstr "外部网址（可选）"
+
+#: ../post-type-doctors.php:146 ../post-type-gallery.php:145
+msgid "External URL target"
+msgstr "外部网址目标"
+
+#: ../post-type-doctors.php:157
+msgid "Timetable page"
+msgstr "时间表页面"
+
+#: ../post-type-doctors.php:182 ../post-type-gallery.php:159
+msgid "Social icons"
+msgstr "社交图标"
+
+#: ../post-type-doctors.php:193 ../post-type-gallery.php:170
+#: ../widgets/widget-appointment.php:151
+#: ../widgets/widget-contact-details.php:244
+msgid "Icon type"
+msgstr "图标类型"
+
+#: ../post-type-doctors.php:207 ../post-type-gallery.php:184
+msgid "Icon url"
+msgstr "图标网址"
+
+#: ../post-type-doctors.php:215 ../post-type-gallery.php:192
+#: ../widgets/widget-cart-icon.php:85
+msgid "Icon target"
+msgstr "图标目标"
+
+#: ../post-type-doctors.php:226 ../post-type-features.php:163
+#: ../post-type-gallery.php:203 ../shortcodes/icon.php:175
+msgid "Icon color"
+msgstr "图标颜色"
+
+#: ../post-type-doctors.php:230 ../post-type-doctors.php:738
+#: ../post-type-features.php:167 ../post-type-gallery.php:207
+#: ../post-type-gallery.php:726 ../shortcodes/blog.php:485
+#: ../shortcodes/carousel.php:252 ../shortcodes/icon.php:178
+#: ../shortcodes/photostream.php:167 ../shortcodes/single-post.php:289
+#: ../shortcodes/small_slider.php:215 ../widgets/widget-appointment.php:164
+#: ../widgets/widget-cart-icon.php:51 ../widgets/widget-contact-details.php:257
+#: ../widgets/widget-footer-box.php:121 ../widgets/widget-home-box.php:142
+#: ../widgets/widget-home-box.php:213 ../widgets/widget-home-box.php:247
+msgid "light blue"
+msgstr "浅蓝"
+
+#: ../post-type-doctors.php:231 ../post-type-doctors.php:740
+#: ../post-type-features.php:168 ../post-type-gallery.php:208
+#: ../post-type-gallery.php:728 ../shortcodes/blog.php:487
+#: ../shortcodes/carousel.php:254 ../shortcodes/icon.php:180
+#: ../shortcodes/photostream.php:169 ../shortcodes/single-post.php:291
+#: ../shortcodes/small_slider.php:217 ../theme-options.php:856
+#: ../widgets/widget-appointment.php:165 ../widgets/widget-cart-icon.php:52
+#: ../widgets/widget-contact-details.php:258
+#: ../widgets/widget-footer-box.php:122 ../widgets/widget-home-box.php:143
+#: ../widgets/widget-home-box.php:214 ../widgets/widget-home-box.php:248
+msgid "blue"
+msgstr "蓝色"
+
+#: ../post-type-doctors.php:232 ../post-type-doctors.php:739
+#: ../post-type-features.php:169 ../post-type-gallery.php:209
+#: ../post-type-gallery.php:727 ../shortcodes/blog.php:486
+#: ../shortcodes/carousel.php:253 ../shortcodes/icon.php:179
+#: ../shortcodes/photostream.php:168 ../shortcodes/single-post.php:290
+#: ../shortcodes/small_slider.php:216 ../widgets/widget-appointment.php:166
+#: ../widgets/widget-cart-icon.php:53 ../widgets/widget-contact-details.php:259
+#: ../widgets/widget-footer-box.php:123 ../widgets/widget-home-box.php:144
+#: ../widgets/widget-home-box.php:215 ../widgets/widget-home-box.php:249
+msgid "dark blue"
+msgstr "深蓝"
+
+#: ../post-type-doctors.php:233 ../post-type-doctors.php:741
+#: ../post-type-features.php:170 ../post-type-gallery.php:210
+#: ../post-type-gallery.php:729 ../shortcodes/blog.php:488
+#: ../shortcodes/carousel.php:255 ../shortcodes/icon.php:181
+#: ../shortcodes/photostream.php:170 ../shortcodes/single-post.php:292
+#: ../shortcodes/small_slider.php:218 ../widgets/widget-appointment.php:167
+#: ../widgets/widget-cart-icon.php:54 ../widgets/widget-contact-details.php:260
+#: ../widgets/widget-footer-box.php:124 ../widgets/widget-home-box.php:145
+#: ../widgets/widget-home-box.php:216 ../widgets/widget-home-box.php:250
+msgid "black"
+msgstr "黑色"
+
+#: ../post-type-doctors.php:234 ../post-type-doctors.php:742
+#: ../post-type-features.php:171 ../post-type-gallery.php:211
+#: ../post-type-gallery.php:730 ../shortcodes/blog.php:489
+#: ../shortcodes/carousel.php:256 ../shortcodes/icon.php:182
+#: ../shortcodes/photostream.php:171 ../shortcodes/single-post.php:293
+#: ../shortcodes/small_slider.php:219 ../widgets/widget-appointment.php:168
+#: ../widgets/widget-cart-icon.php:55 ../widgets/widget-contact-details.php:261
+#: ../widgets/widget-footer-box.php:125 ../widgets/widget-home-box.php:146
+#: ../widgets/widget-home-box.php:217 ../widgets/widget-home-box.php:251
+msgid "gray"
+msgstr "灰色"
+
+#: ../post-type-doctors.php:235 ../post-type-doctors.php:743
+#: ../post-type-features.php:172 ../post-type-gallery.php:212
+#: ../post-type-gallery.php:731 ../shortcodes/blog.php:490
+#: ../shortcodes/carousel.php:257 ../shortcodes/icon.php:183
+#: ../shortcodes/photostream.php:172 ../shortcodes/single-post.php:294
+#: ../shortcodes/small_slider.php:220 ../widgets/widget-appointment.php:169
+#: ../widgets/widget-cart-icon.php:56 ../widgets/widget-contact-details.php:262
+#: ../widgets/widget-footer-box.php:126 ../widgets/widget-home-box.php:147
+#: ../widgets/widget-home-box.php:218 ../widgets/widget-home-box.php:252
+msgid "dark gray"
+msgstr "深灰"
+
+#: ../post-type-doctors.php:236 ../post-type-doctors.php:744
+#: ../post-type-features.php:173 ../post-type-gallery.php:213
+#: ../post-type-gallery.php:732 ../shortcodes/blog.php:491
+#: ../shortcodes/carousel.php:258 ../shortcodes/icon.php:184
+#: ../shortcodes/photostream.php:173 ../shortcodes/single-post.php:295
+#: ../shortcodes/small_slider.php:221 ../widgets/widget-appointment.php:170
+#: ../widgets/widget-cart-icon.php:57 ../widgets/widget-contact-details.php:263
+#: ../widgets/widget-footer-box.php:127 ../widgets/widget-home-box.php:148
+#: ../widgets/widget-home-box.php:219 ../widgets/widget-home-box.php:253
+msgid "light gray"
+msgstr "浅灰"
+
+#: ../post-type-doctors.php:237 ../post-type-doctors.php:745
+#: ../post-type-features.php:174 ../post-type-gallery.php:214
+#: ../post-type-gallery.php:733 ../shortcodes/blog.php:492
+#: ../shortcodes/carousel.php:259 ../shortcodes/icon.php:185
+#: ../shortcodes/photostream.php:174 ../shortcodes/single-post.php:296
+#: ../shortcodes/small_slider.php:222 ../theme-options.php:858
+#: ../theme-options.php:1250 ../widgets/widget-appointment.php:171
+#: ../widgets/widget-cart-icon.php:58 ../widgets/widget-contact-details.php:264
+#: ../widgets/widget-footer-box.php:128 ../widgets/widget-home-box.php:149
+#: ../widgets/widget-home-box.php:220 ../widgets/widget-home-box.php:254
+msgid "green"
+msgstr "绿色"
+
+#: ../post-type-doctors.php:238 ../post-type-doctors.php:746
+#: ../post-type-features.php:175 ../post-type-gallery.php:215
+#: ../post-type-gallery.php:734 ../shortcodes/blog.php:493
+#: ../shortcodes/carousel.php:260 ../shortcodes/icon.php:186
+#: ../shortcodes/photostream.php:175 ../shortcodes/single-post.php:297
+#: ../shortcodes/small_slider.php:223 ../widgets/widget-appointment.php:172
+#: ../widgets/widget-cart-icon.php:59 ../widgets/widget-contact-details.php:265
+#: ../widgets/widget-footer-box.php:129 ../widgets/widget-home-box.php:150
+#: ../widgets/widget-home-box.php:221 ../widgets/widget-home-box.php:255
+msgid "dark green"
+msgstr "深绿"
+
+#: ../post-type-doctors.php:239 ../post-type-doctors.php:747
+#: ../post-type-features.php:176 ../post-type-gallery.php:216
+#: ../post-type-gallery.php:735 ../shortcodes/blog.php:494
+#: ../shortcodes/carousel.php:261 ../shortcodes/icon.php:187
+#: ../shortcodes/photostream.php:176 ../shortcodes/single-post.php:298
+#: ../shortcodes/small_slider.php:224 ../widgets/widget-appointment.php:173
+#: ../widgets/widget-cart-icon.php:60 ../widgets/widget-contact-details.php:266
+#: ../widgets/widget-footer-box.php:130 ../widgets/widget-home-box.php:151
+#: ../widgets/widget-home-box.php:222 ../widgets/widget-home-box.php:256
+msgid "light green"
+msgstr "浅绿"
+
+#: ../post-type-doctors.php:240 ../post-type-doctors.php:748
+#: ../post-type-features.php:177 ../post-type-gallery.php:217
+#: ../post-type-gallery.php:736 ../shortcodes/blog.php:495
+#: ../shortcodes/carousel.php:262 ../shortcodes/icon.php:188
+#: ../shortcodes/photostream.php:177 ../shortcodes/single-post.php:299
+#: ../shortcodes/small_slider.php:225 ../theme-options.php:860
+#: ../theme-options.php:1251 ../widgets/widget-appointment.php:174
+#: ../widgets/widget-cart-icon.php:61 ../widgets/widget-contact-details.php:267
+#: ../widgets/widget-footer-box.php:131 ../widgets/widget-home-box.php:152
+#: ../widgets/widget-home-box.php:223 ../widgets/widget-home-box.php:257
+msgid "orange"
+msgstr "橙色"
+
+#: ../post-type-doctors.php:241 ../post-type-doctors.php:749
+#: ../post-type-features.php:178 ../post-type-gallery.php:218
+#: ../post-type-gallery.php:737 ../shortcodes/blog.php:496
+#: ../shortcodes/carousel.php:263 ../shortcodes/icon.php:189
+#: ../shortcodes/photostream.php:178 ../shortcodes/single-post.php:300
+#: ../shortcodes/small_slider.php:226 ../widgets/widget-appointment.php:175
+#: ../widgets/widget-cart-icon.php:62 ../widgets/widget-contact-details.php:268
+#: ../widgets/widget-footer-box.php:132 ../widgets/widget-home-box.php:153
+#: ../widgets/widget-home-box.php:224 ../widgets/widget-home-box.php:258
+msgid "dark orange"
+msgstr "深橙"
+
+#: ../post-type-doctors.php:242 ../post-type-doctors.php:750
+#: ../post-type-features.php:179 ../post-type-gallery.php:219
+#: ../post-type-gallery.php:738 ../shortcodes/blog.php:497
+#: ../shortcodes/carousel.php:264 ../shortcodes/icon.php:190
+#: ../shortcodes/photostream.php:179 ../shortcodes/single-post.php:301
+#: ../shortcodes/small_slider.php:227 ../widgets/widget-appointment.php:176
+#: ../widgets/widget-cart-icon.php:63 ../widgets/widget-contact-details.php:269
+#: ../widgets/widget-footer-box.php:133 ../widgets/widget-home-box.php:154
+#: ../widgets/widget-home-box.php:225 ../widgets/widget-home-box.php:259
+msgid "light orange"
+msgstr "浅橙"
+
+#: ../post-type-doctors.php:243 ../post-type-doctors.php:751
+#: ../post-type-features.php:180 ../post-type-gallery.php:220
+#: ../post-type-gallery.php:739 ../shortcodes/blog.php:498
+#: ../shortcodes/carousel.php:265 ../shortcodes/icon.php:191
+#: ../shortcodes/photostream.php:180 ../shortcodes/single-post.php:302
+#: ../shortcodes/small_slider.php:228 ../theme-options.php:862
+#: ../theme-options.php:1252 ../widgets/widget-appointment.php:177
+#: ../widgets/widget-cart-icon.php:64 ../widgets/widget-contact-details.php:270
+#: ../widgets/widget-footer-box.php:134 ../widgets/widget-home-box.php:155
+#: ../widgets/widget-home-box.php:226 ../widgets/widget-home-box.php:260
+msgid "red"
+msgstr "红色"
+
+#: ../post-type-doctors.php:244 ../post-type-doctors.php:752
+#: ../post-type-features.php:181 ../post-type-gallery.php:221
+#: ../post-type-gallery.php:740 ../shortcodes/blog.php:499
+#: ../shortcodes/carousel.php:266 ../shortcodes/icon.php:192
+#: ../shortcodes/photostream.php:181 ../shortcodes/single-post.php:303
+#: ../shortcodes/small_slider.php:229 ../widgets/widget-appointment.php:178
+#: ../widgets/widget-cart-icon.php:65 ../widgets/widget-contact-details.php:271
+#: ../widgets/widget-footer-box.php:135 ../widgets/widget-home-box.php:156
+#: ../widgets/widget-home-box.php:227 ../widgets/widget-home-box.php:261
+msgid "dark red"
+msgstr "深红"
+
+#: ../post-type-doctors.php:245 ../post-type-doctors.php:753
+#: ../post-type-features.php:182 ../post-type-gallery.php:222
+#: ../post-type-gallery.php:741 ../shortcodes/blog.php:500
+#: ../shortcodes/carousel.php:267 ../shortcodes/icon.php:193
+#: ../shortcodes/photostream.php:182 ../shortcodes/single-post.php:304
+#: ../shortcodes/small_slider.php:230 ../widgets/widget-appointment.php:179
+#: ../widgets/widget-cart-icon.php:66 ../widgets/widget-contact-details.php:272
+#: ../widgets/widget-footer-box.php:136 ../widgets/widget-home-box.php:157
+#: ../widgets/widget-home-box.php:228 ../widgets/widget-home-box.php:262
+msgid "light red"
+msgstr "浅红"
+
+#: ../post-type-doctors.php:246 ../post-type-doctors.php:754
+#: ../post-type-features.php:183 ../post-type-gallery.php:223
+#: ../post-type-gallery.php:742 ../shortcodes/blog.php:501
+#: ../shortcodes/carousel.php:268 ../shortcodes/icon.php:194
+#: ../shortcodes/photostream.php:183 ../shortcodes/single-post.php:305
+#: ../shortcodes/small_slider.php:231 ../theme-options.php:864
+#: ../theme-options.php:1253 ../widgets/widget-appointment.php:180
+#: ../widgets/widget-cart-icon.php:67 ../widgets/widget-contact-details.php:273
+#: ../widgets/widget-footer-box.php:137 ../widgets/widget-home-box.php:158
+#: ../widgets/widget-home-box.php:229 ../widgets/widget-home-box.php:263
+msgid "turquoise"
+msgstr "青绿"
+
+#: ../post-type-doctors.php:247 ../post-type-doctors.php:755
+#: ../post-type-features.php:184 ../post-type-gallery.php:224
+#: ../post-type-gallery.php:743 ../shortcodes/blog.php:502
+#: ../shortcodes/carousel.php:269 ../shortcodes/icon.php:195
+#: ../shortcodes/photostream.php:184 ../shortcodes/single-post.php:306
+#: ../shortcodes/small_slider.php:232 ../widgets/widget-appointment.php:181
+#: ../widgets/widget-cart-icon.php:68 ../widgets/widget-contact-details.php:274
+#: ../widgets/widget-footer-box.php:138 ../widgets/widget-home-box.php:159
+#: ../widgets/widget-home-box.php:230 ../widgets/widget-home-box.php:264
+msgid "dark turquoise"
+msgstr "深青"
+
+#: ../post-type-doctors.php:248 ../post-type-doctors.php:756
+#: ../post-type-features.php:185 ../post-type-gallery.php:225
+#: ../post-type-gallery.php:744 ../shortcodes/blog.php:503
+#: ../shortcodes/carousel.php:270 ../shortcodes/icon.php:196
+#: ../shortcodes/photostream.php:185 ../shortcodes/single-post.php:307
+#: ../shortcodes/small_slider.php:233 ../widgets/widget-appointment.php:182
+#: ../widgets/widget-cart-icon.php:69 ../widgets/widget-contact-details.php:275
+#: ../widgets/widget-footer-box.php:139 ../widgets/widget-home-box.php:160
+#: ../widgets/widget-home-box.php:231 ../widgets/widget-home-box.php:265
+msgid "light turquoise"
+msgstr "浅青"
+
+#: ../post-type-doctors.php:249 ../post-type-doctors.php:757
+#: ../post-type-features.php:186 ../post-type-gallery.php:226
+#: ../post-type-gallery.php:745 ../shortcodes/blog.php:504
+#: ../shortcodes/carousel.php:271 ../shortcodes/icon.php:197
+#: ../shortcodes/photostream.php:186 ../shortcodes/single-post.php:308
+#: ../shortcodes/small_slider.php:234 ../theme-options.php:866
+#: ../theme-options.php:1254 ../widgets/widget-appointment.php:183
+#: ../widgets/widget-cart-icon.php:70 ../widgets/widget-contact-details.php:276
+#: ../widgets/widget-footer-box.php:140 ../widgets/widget-home-box.php:161
+#: ../widgets/widget-home-box.php:232 ../widgets/widget-home-box.php:266
+msgid "violet"
+msgstr "紫"
+
+#: ../post-type-doctors.php:250 ../post-type-doctors.php:758
+#: ../post-type-features.php:187 ../post-type-gallery.php:227
+#: ../post-type-gallery.php:746 ../shortcodes/blog.php:505
+#: ../shortcodes/carousel.php:272 ../shortcodes/icon.php:198
+#: ../shortcodes/photostream.php:187 ../shortcodes/single-post.php:309
+#: ../shortcodes/small_slider.php:235 ../widgets/widget-appointment.php:184
+#: ../widgets/widget-cart-icon.php:71 ../widgets/widget-contact-details.php:277
+#: ../widgets/widget-footer-box.php:141 ../widgets/widget-home-box.php:162
+#: ../widgets/widget-home-box.php:233 ../widgets/widget-home-box.php:267
+msgid "dark violet"
+msgstr "深紫"
+
+#: ../post-type-doctors.php:251 ../post-type-doctors.php:759
+#: ../post-type-features.php:188 ../post-type-gallery.php:228
+#: ../post-type-gallery.php:747 ../shortcodes/blog.php:506
+#: ../shortcodes/carousel.php:273 ../shortcodes/icon.php:199
+#: ../shortcodes/photostream.php:188 ../shortcodes/single-post.php:310
+#: ../shortcodes/small_slider.php:236 ../widgets/widget-appointment.php:185
+#: ../widgets/widget-cart-icon.php:72 ../widgets/widget-contact-details.php:278
+#: ../widgets/widget-footer-box.php:142 ../widgets/widget-home-box.php:163
+#: ../widgets/widget-home-box.php:234 ../widgets/widget-home-box.php:268
+msgid "light violet"
+msgstr "浅紫"
+
+#: ../post-type-doctors.php:252 ../post-type-doctors.php:760
+#: ../post-type-features.php:189 ../post-type-gallery.php:229
+#: ../post-type-gallery.php:748 ../shortcodes/blog.php:507
+#: ../shortcodes/carousel.php:274 ../shortcodes/icon.php:200
+#: ../shortcodes/photostream.php:189 ../shortcodes/single-post.php:311
+#: ../shortcodes/small_slider.php:237 ../widgets/widget-appointment.php:186
+#: ../widgets/widget-cart-icon.php:73 ../widgets/widget-contact-details.php:279
+#: ../widgets/widget-footer-box.php:143 ../widgets/widget-home-box.php:164
+#: ../widgets/widget-home-box.php:235 ../widgets/widget-home-box.php:245
+#: ../widgets/widget-home-box.php:269
+msgid "white"
+msgstr "白色"
+
+#: ../post-type-doctors.php:253 ../post-type-doctors.php:761
+#: ../post-type-features.php:190 ../post-type-gallery.php:230
+#: ../post-type-gallery.php:749 ../shortcodes/blog.php:508
+#: ../shortcodes/carousel.php:275 ../shortcodes/icon.php:201
+#: ../shortcodes/photostream.php:190 ../shortcodes/single-post.php:312
+#: ../shortcodes/small_slider.php:238 ../widgets/widget-appointment.php:187
+#: ../widgets/widget-cart-icon.php:74 ../widgets/widget-contact-details.php:280
+#: ../widgets/widget-footer-box.php:144 ../widgets/widget-home-box.php:165
+#: ../widgets/widget-home-box.php:236 ../widgets/widget-home-box.php:270
+msgid "yellow"
+msgstr "黄色"
+
+#: ../post-type-doctors.php:265 ../post-type-gallery.php:242
+#: ../widgets/widget-appointment.php:199
+#: ../widgets/widget-contact-details.php:292
+msgid "Add icon"
+msgstr "添加图标"
+
+#: ../post-type-doctors.php:337 ../post-type-gallery.php:314
+#: ../shortcodes/photostream.php:157
+msgid "Featured images lightbox loop"
+msgstr "特色图像灯箱循环"
+
+#: ../post-type-doctors.php:438 ../post-type-doctors.php:445
+#: ../post-type-features.php:340 ../post-type-features.php:347
+#: ../post-type-gallery.php:426 ../post-type-gallery.php:433
+#: ../shortcodes/blog.php:255 ../shortcodes/shortcodes.php:14
+#: ../shortcodes/timetable.php:401 ../shortcodes/timetable.php:426
+msgid "All"
+msgstr "所有"
+
+#: ../post-type-doctors.php:454 ../post-type-gallery.php:442
+#: ../shortcodes/blog.php:261 ../shortcodes/photostream.php:107
+#: ../shortcodes/shortcodes.php:141 ../shortcodes/single-post.php:175
+#: ../theme-options.php:967
+msgid "Default"
+msgstr "默认"
+
+#: ../post-type-doctors.php:472
+msgid "Doctors list"
+msgstr "医生列表"
+
+#: ../post-type-doctors.php:485
+msgid "Meet The Team"
+msgstr "团队介绍"
+
+#: ../post-type-doctors.php:497 ../post-type-features.php:391
+#: ../post-type-gallery.php:485 ../shortcodes/blog.php:334
+msgid "Order by"
+msgstr "顺序："
+
+#: ../post-type-doctors.php:499 ../post-type-features.php:393
+#: ../post-type-gallery.php:487 ../shortcodes/blog.php:336
+msgid "Title, menu order"
+msgstr "标题，菜单顺序"
+
+#: ../post-type-doctors.php:499 ../post-type-features.php:393
+#: ../post-type-gallery.php:487 ../shortcodes/blog.php:336
+msgid "Menu order"
+msgstr "菜单顺序"
+
+#: ../post-type-doctors.php:504 ../post-type-features.php:398
+#: ../post-type-gallery.php:492 ../shortcodes/blog.php:341
+#: ../widgets/widget-departments.php:179
+#: ../woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr "顺序"
+
+#: ../post-type-doctors.php:506 ../post-type-features.php:400
+#: ../post-type-gallery.php:494 ../shortcodes/blog.php:343
+msgid "ascending"
+msgstr "升序"
+
+#: ../post-type-doctors.php:506 ../post-type-features.php:400
+#: ../post-type-gallery.php:494 ../shortcodes/blog.php:343
+msgid "descending"
+msgstr "降序"
+
+#: ../post-type-doctors.php:513 ../post-type-gallery.php:501
+msgid "List with details"
+msgstr "详细列表"
+
+#: ../post-type-doctors.php:513 ../post-type-gallery.php:501
+msgid "List"
+msgstr "列表"
+
+#: ../post-type-doctors.php:520
+msgid "4 columns"
+msgstr "4列"
+
+#: ../post-type-doctors.php:520
+msgid "2 columns"
+msgstr "2列"
+
+#: ../post-type-doctors.php:520
+msgid "3 columns"
+msgstr "3列"
+
+#: ../post-type-doctors.php:525 ../post-type-gallery.php:513
+#: ../shortcodes/blog.php:304 ../shortcodes/photostream.php:150
+#: ../shortcodes/single-post.php:203
+msgid "Featured image size"
+msgstr "特色图像大小"
+
+#: ../post-type-doctors.php:532 ../post-type-gallery.php:520
+#: ../shortcodes/small_slider.php:244
+msgid "Hover icons"
+msgstr "悬停图标"
+
+#: ../post-type-doctors.php:539 ../post-type-gallery.php:527
+msgid "Title box in details"
+msgstr "详情标题框"
+
+#: ../post-type-doctors.php:547 ../post-type-gallery.php:535
+msgid "Details page"
+msgstr "详情页面"
+
+#: ../post-type-doctors.php:555 ../post-type-gallery.php:543
+msgid "Display method"
+msgstr "显示方法"
+
+#: ../post-type-doctors.php:557 ../post-type-gallery.php:545
+msgid "Filters"
+msgstr "筛选"
+
+#: ../post-type-doctors.php:557 ../post-type-gallery.php:545
+#: ../shortcodes/carousel.php:386
+msgid "Carousel"
+msgstr "轮播"
+
+#: ../post-type-doctors.php:557 ../post-type-gallery.php:545
+#: ../shortcodes/blog.php:289
+msgid "Pagination"
+msgstr "页码"
+
+#: ../post-type-doctors.php:557 ../post-type-gallery.php:545
+#: ../shortcodes/shortcodes.php:173 ../shortcodes/shortcodes.php:188
+msgid "Simple"
+msgstr "简单"
+
+#: ../post-type-doctors.php:564 ../post-type-gallery.php:552
+msgid "All filter label"
+msgstr "所有筛选标签"
+
+#: ../post-type-doctors.php:576 ../post-type-gallery.php:564
+#: ../shortcodes/carousel.php:170 ../shortcodes/small_slider.php:141
+msgid "Please provide unique id for each carousel on the same page/post"
+msgstr "请在相同页面/文章为每个轮播提供唯一ID"
+
+#: ../post-type-doctors.php:582 ../post-type-gallery.php:570
+#: ../shortcodes/carousel.php:281 ../shortcodes/small_slider.php:251
+#: ../shortcodes/testimonials.php:109
+msgid "Autoplay"
+msgstr "自动播放"
+
+#: ../post-type-doctors.php:590 ../post-type-gallery.php:578
+#: ../shortcodes/carousel.php:288 ../shortcodes/small_slider.php:258
+#: ../shortcodes/testimonials.php:116
+msgid "Pause on hover"
+msgstr "暂停悬停"
+
+#: ../post-type-doctors.php:593 ../post-type-gallery.php:581
+msgid "Affect only when autoplay is set to yes"
+msgstr "仅影响自动播放设置为是"
+
+#: ../post-type-doctors.php:599 ../post-type-gallery.php:587
+#: ../shortcodes/carousel.php:296 ../shortcodes/small_slider.php:266
+#: ../shortcodes/testimonials.php:124
+msgid "Scroll"
+msgstr "滚动"
+
+#: ../post-type-doctors.php:602 ../post-type-gallery.php:590
+#: ../shortcodes/carousel.php:299 ../shortcodes/small_slider.php:269
+#: ../shortcodes/testimonials.php:127
+msgid "Number of items to scroll in one step"
+msgstr "一步滚动项目数量"
+
+#: ../post-type-doctors.php:608 ../post-type-gallery.php:596
+#: ../shortcodes/carousel.php:304 ../shortcodes/small_slider.php:274
+#: ../shortcodes/testimonials.php:132
+msgid "Effect"
+msgstr "效果"
+
+#: ../post-type-doctors.php:611 ../post-type-gallery.php:599
+#: ../shortcodes/carousel.php:307 ../shortcodes/small_slider.php:277
+#: ../shortcodes/testimonials.php:135 ../theme-options.php:1112
+msgid "scroll"
+msgstr "滚动"
+
+#: ../post-type-doctors.php:612 ../post-type-features.php:435
+#: ../post-type-gallery.php:600 ../shortcodes/announcement_box.php:152
+#: ../shortcodes/blog.php:402 ../shortcodes/blog.php:436
+#: ../shortcodes/carousel.php:308 ../shortcodes/shortcodes.php:31
+#: ../shortcodes/shortcodes.php:802 ../shortcodes/shortcodes.php:833
+#: ../shortcodes/single-post.php:254 ../shortcodes/single-post.php:343
+#: ../shortcodes/single-post.php:374 ../shortcodes/small_slider.php:278
+#: ../shortcodes/testimonials.php:136 ../theme-options.php:1113
+#: ../theme-options.php:1885 ../theme-options.php:1901
+#: ../widgets/widget-footer-box.php:153 ../widgets/widget-home-box.php:279
+msgid "none"
+msgstr "无"
+
+#: ../post-type-doctors.php:613 ../post-type-gallery.php:601
+#: ../shortcodes/carousel.php:309 ../shortcodes/small_slider.php:279
+#: ../shortcodes/testimonials.php:137 ../theme-options.php:1114
+msgid "directscroll"
+msgstr "directscroll"
+
+#: ../post-type-doctors.php:614 ../post-type-gallery.php:602
+#: ../shortcodes/carousel.php:310 ../shortcodes/small_slider.php:280
+#: ../shortcodes/testimonials.php:138 ../theme-options.php:1115
+msgid "fade"
+msgstr "淡出淡入"
+
+#: ../post-type-doctors.php:615 ../post-type-gallery.php:603
+#: ../shortcodes/carousel.php:311 ../shortcodes/small_slider.php:281
+#: ../shortcodes/testimonials.php:139 ../theme-options.php:1116
+msgid "crossfade"
+msgstr "淡入淡出"
+
+#: ../post-type-doctors.php:616 ../post-type-gallery.php:604
+#: ../shortcodes/carousel.php:312 ../shortcodes/small_slider.php:282
+#: ../shortcodes/testimonials.php:140 ../theme-options.php:1117
+msgid "cover"
+msgstr "覆盖"
+
+#: ../post-type-doctors.php:617 ../post-type-gallery.php:605
+#: ../shortcodes/carousel.php:313 ../shortcodes/small_slider.php:283
+#: ../shortcodes/testimonials.php:141 ../theme-options.php:1118
+msgid "uncover"
+msgstr "uncover"
+
+#: ../post-type-doctors.php:624 ../post-type-gallery.php:612
+#: ../shortcodes/carousel.php:319 ../shortcodes/small_slider.php:289
+#: ../shortcodes/testimonials.php:147
+msgid "Sliding easing"
+msgstr "滑动缓动"
+
+#: ../post-type-doctors.php:627 ../post-type-gallery.php:615
+#: ../shortcodes/carousel.php:322 ../shortcodes/small_slider.php:293
+#: ../shortcodes/testimonials.php:150 ../theme-options.php:1126
+msgid "swing"
+msgstr "swing"
+
+#: ../post-type-doctors.php:628 ../post-type-gallery.php:616
+#: ../shortcodes/carousel.php:323 ../shortcodes/small_slider.php:294
+#: ../shortcodes/testimonials.php:151 ../theme-options.php:1127
+msgid "linear"
+msgstr "linear"
+
+#: ../post-type-doctors.php:629 ../post-type-gallery.php:617
+#: ../shortcodes/carousel.php:324 ../shortcodes/small_slider.php:295
+#: ../shortcodes/testimonials.php:152 ../theme-options.php:1128
+msgid "easeInQuad"
+msgstr "easeInQuad"
+
+#: ../post-type-doctors.php:630 ../post-type-gallery.php:618
+#: ../shortcodes/carousel.php:325 ../shortcodes/small_slider.php:296
+#: ../shortcodes/testimonials.php:153 ../theme-options.php:1129
+msgid "easeOutQuad"
+msgstr "easeOutQuad"
+
+#: ../post-type-doctors.php:631 ../post-type-gallery.php:619
+#: ../shortcodes/carousel.php:326 ../shortcodes/small_slider.php:297
+#: ../shortcodes/testimonials.php:154 ../theme-options.php:1130
+msgid "easeInOutQuad"
+msgstr "easeInOutQuad"
+
+#: ../post-type-doctors.php:632 ../post-type-gallery.php:620
+#: ../shortcodes/carousel.php:327 ../shortcodes/small_slider.php:298
+#: ../shortcodes/testimonials.php:155 ../theme-options.php:1131
+msgid "easeInCubic"
+msgstr "easeInCubic"
+
+#: ../post-type-doctors.php:633 ../post-type-gallery.php:621
+#: ../shortcodes/carousel.php:328 ../shortcodes/small_slider.php:299
+#: ../shortcodes/testimonials.php:156 ../theme-options.php:1132
+msgid "easeOutCubic"
+msgstr "easeOutCubic"
+
+#: ../post-type-doctors.php:634 ../post-type-gallery.php:622
+#: ../shortcodes/carousel.php:329 ../shortcodes/small_slider.php:300
+#: ../shortcodes/testimonials.php:157 ../theme-options.php:1133
+#: ../theme-options.php:1134
+msgid "easeInOutCubic"
+msgstr "easeInOutCubic"
+
+#: ../post-type-doctors.php:635 ../post-type-gallery.php:623
+#: ../shortcodes/carousel.php:330 ../shortcodes/small_slider.php:301
+#: ../shortcodes/testimonials.php:158 ../theme-options.php:1135
+msgid "easeInQuart"
+msgstr "easeInQuart"
+
+#: ../post-type-doctors.php:636 ../post-type-gallery.php:624
+#: ../shortcodes/carousel.php:331 ../shortcodes/small_slider.php:302
+#: ../shortcodes/testimonials.php:159 ../theme-options.php:1136
+msgid "easeOutQuart"
+msgstr "easeOutQuart"
+
+#: ../post-type-doctors.php:637 ../post-type-gallery.php:625
+#: ../shortcodes/carousel.php:332 ../shortcodes/small_slider.php:303
+#: ../shortcodes/testimonials.php:160 ../theme-options.php:1137
+msgid "easeInOutQuart"
+msgstr "easeInOutQuart"
+
+#: ../post-type-doctors.php:638 ../post-type-gallery.php:626
+#: ../shortcodes/carousel.php:333 ../shortcodes/small_slider.php:304
+#: ../shortcodes/testimonials.php:161 ../theme-options.php:1138
+msgid "easeInSine"
+msgstr "easeInSine"
+
+#: ../post-type-doctors.php:639 ../post-type-gallery.php:627
+#: ../shortcodes/carousel.php:334 ../shortcodes/small_slider.php:305
+#: ../shortcodes/testimonials.php:162 ../theme-options.php:1139
+msgid "easeOutSine"
+msgstr "easeOutSine"
+
+#: ../post-type-doctors.php:640 ../post-type-gallery.php:628
+#: ../shortcodes/carousel.php:335 ../shortcodes/small_slider.php:306
+#: ../shortcodes/testimonials.php:163 ../theme-options.php:1140
+msgid "easeInOutSine"
+msgstr "easeInOutSine"
+
+#: ../post-type-doctors.php:641 ../post-type-gallery.php:629
+#: ../shortcodes/carousel.php:336 ../shortcodes/small_slider.php:307
+#: ../shortcodes/testimonials.php:164 ../theme-options.php:1141
+msgid "easeInExpo"
+msgstr "easeInExpo"
+
+#: ../post-type-doctors.php:642 ../post-type-gallery.php:630
+#: ../shortcodes/carousel.php:337 ../shortcodes/small_slider.php:308
+#: ../shortcodes/testimonials.php:165 ../theme-options.php:1142
+msgid "easeOutExpo"
+msgstr "easeOutExpo"
+
+#: ../post-type-doctors.php:643 ../post-type-gallery.php:631
+#: ../shortcodes/carousel.php:338 ../shortcodes/small_slider.php:309
+#: ../shortcodes/testimonials.php:166 ../theme-options.php:1143
+msgid "easeInOutExpo"
+msgstr "easeInOutExpo"
+
+#: ../post-type-doctors.php:644 ../post-type-gallery.php:632
+#: ../shortcodes/carousel.php:339 ../shortcodes/small_slider.php:310
+#: ../shortcodes/testimonials.php:167 ../theme-options.php:1144
+msgid "easeInQuint"
+msgstr "easeInQuint"
+
+#: ../post-type-doctors.php:645 ../post-type-gallery.php:633
+#: ../shortcodes/carousel.php:340 ../shortcodes/small_slider.php:311
+#: ../shortcodes/testimonials.php:168 ../theme-options.php:1145
+msgid "easeOutQuint"
+msgstr "easeOutQuint"
+
+#: ../post-type-doctors.php:646 ../post-type-gallery.php:634
+#: ../shortcodes/carousel.php:341 ../shortcodes/small_slider.php:292
+#: ../shortcodes/testimonials.php:169 ../theme-options.php:1146
+msgid "easeInOutQuint"
+msgstr "easeInOutQuint"
+
+#: ../post-type-doctors.php:647 ../post-type-gallery.php:635
+#: ../shortcodes/carousel.php:342 ../shortcodes/small_slider.php:312
+#: ../shortcodes/testimonials.php:170 ../theme-options.php:1147
+msgid "easeInCirc"
+msgstr "easeInCirc"
+
+#: ../post-type-doctors.php:648 ../post-type-gallery.php:636
+#: ../shortcodes/carousel.php:343 ../shortcodes/small_slider.php:313
+#: ../shortcodes/testimonials.php:171 ../theme-options.php:1148
+msgid "easeOutCirc"
+msgstr "easeOutCirc"
+
+#: ../post-type-doctors.php:649 ../post-type-gallery.php:637
+#: ../shortcodes/carousel.php:344 ../shortcodes/small_slider.php:314
+#: ../shortcodes/testimonials.php:172 ../theme-options.php:1149
+msgid "easeInOutCirc"
+msgstr "easeInOutCirc"
+
+#: ../post-type-doctors.php:650 ../post-type-gallery.php:638
+#: ../shortcodes/carousel.php:345 ../shortcodes/small_slider.php:315
+#: ../shortcodes/testimonials.php:173 ../theme-options.php:1150
+msgid "easeInElastic"
+msgstr "easeInElastic"
+
+#: ../post-type-doctors.php:651 ../post-type-gallery.php:639
+#: ../shortcodes/carousel.php:346 ../shortcodes/small_slider.php:316
+#: ../shortcodes/testimonials.php:174 ../theme-options.php:1151
+msgid "easeOutElastic"
+msgstr "easeOutElastic"
+
+#: ../post-type-doctors.php:652 ../post-type-gallery.php:640
+#: ../shortcodes/carousel.php:347 ../shortcodes/small_slider.php:317
+#: ../shortcodes/testimonials.php:175 ../theme-options.php:1152
+msgid "easeInOutElastic"
+msgstr "easeInOutElastic"
+
+#: ../post-type-doctors.php:653 ../post-type-gallery.php:641
+#: ../shortcodes/carousel.php:348 ../shortcodes/small_slider.php:318
+#: ../shortcodes/testimonials.php:176 ../theme-options.php:1153
+msgid "easeInBack"
+msgstr "easeInBack"
+
+#: ../post-type-doctors.php:654 ../post-type-gallery.php:642
+#: ../shortcodes/carousel.php:349 ../shortcodes/small_slider.php:319
+#: ../shortcodes/testimonials.php:177 ../theme-options.php:1154
+msgid "easeOutBack"
+msgstr "easeOutBack"
+
+#: ../post-type-doctors.php:655 ../post-type-gallery.php:643
+#: ../shortcodes/carousel.php:350 ../shortcodes/small_slider.php:320
+#: ../shortcodes/testimonials.php:178 ../theme-options.php:1155
+msgid "easeInOutBack"
+msgstr "easeInOutBack"
+
+#: ../post-type-doctors.php:656 ../post-type-gallery.php:644
+#: ../shortcodes/carousel.php:351 ../shortcodes/small_slider.php:321
+#: ../shortcodes/testimonials.php:179 ../theme-options.php:1156
+msgid "easeInBounce"
+msgstr "easeInBounce"
+
+#: ../post-type-doctors.php:657 ../post-type-gallery.php:645
+#: ../shortcodes/carousel.php:352 ../shortcodes/small_slider.php:322
+#: ../shortcodes/testimonials.php:180 ../theme-options.php:1157
+msgid "easeOutBounce"
+msgstr "easeOutBounce"
+
+#: ../post-type-doctors.php:658 ../post-type-gallery.php:646
+#: ../shortcodes/carousel.php:353 ../shortcodes/small_slider.php:323
+#: ../shortcodes/testimonials.php:181 ../theme-options.php:1158
+msgid "easeInOutBounce"
+msgstr "easeInOutBounce"
+
+#: ../post-type-doctors.php:665 ../post-type-gallery.php:653
+#: ../shortcodes/carousel.php:359 ../shortcodes/small_slider.php:329
+#: ../shortcodes/testimonials.php:187
+msgid "Sliding transition speed (ms)"
+msgstr "滑动动画速度（毫秒）"
+
+#: ../post-type-doctors.php:674 ../post-type-gallery.php:662
+msgid "Items per page"
+msgstr "每页项目"
+
+#: ../post-type-doctors.php:682 ../post-type-gallery.php:670
+msgid "Ajax pagination"
+msgstr "AJAX分页"
+
+#: ../post-type-doctors.php:690 ../post-type-features.php:363
+#: ../post-type-gallery.php:678 ../shortcodes/blog.php:319
+#: ../shortcodes/timetable.php:441
+msgid "Display selected"
+msgstr "显示所选"
+
+#: ../post-type-doctors.php:697 ../post-type-features.php:370
+#: ../post-type-gallery.php:685 ../shortcodes/blog.php:327
+msgid "Display from Category"
+msgstr "从分类显示"
+
+#: ../post-type-doctors.php:704 ../post-type-gallery.php:692
+msgid "Display headers in details"
+msgstr "在详情显示标题"
+
+#: ../post-type-doctors.php:712 ../post-type-gallery.php:700
+msgid "Headers type"
+msgstr "标题类型"
+
+#: ../post-type-doctors.php:714 ../post-type-gallery.php:702
+#: ../shortcodes/shortcodes.php:577
+msgid "H2"
+msgstr "H2"
+
+#: ../post-type-doctors.php:714 ../post-type-gallery.php:702
+#: ../shortcodes/shortcodes.php:577
+msgid "H1"
+msgstr "H1"
+
+#: ../post-type-doctors.php:714 ../post-type-gallery.php:702
+#: ../shortcodes/shortcodes.php:577
+msgid "H3"
+msgstr "H3"
+
+#: ../post-type-doctors.php:714 ../post-type-gallery.php:702
+#: ../shortcodes/shortcodes.php:577
+msgid "H4"
+msgstr "H4"
+
+#: ../post-type-doctors.php:714 ../post-type-gallery.php:702
+#: ../shortcodes/shortcodes.php:577
+msgid "H5"
+msgstr "H5"
+
+#: ../post-type-doctors.php:720 ../post-type-gallery.php:708
+msgid "Display social icons"
+msgstr "显示社交图标"
+
+#: ../post-type-doctors.php:727 ../post-type-gallery.php:715
+#: ../shortcodes/carousel.php:241 ../shortcodes/small_slider.php:204
+msgid "Lightbox images loop"
+msgstr "灯箱图片循环"
+
+#: ../post-type-doctors.php:735 ../post-type-gallery.php:723
+#: ../shortcodes/blog.php:482 ../shortcodes/carousel.php:249
+#: ../shortcodes/photostream.php:164 ../shortcodes/single-post.php:286
+#: ../shortcodes/small_slider.php:212
+msgid "Lightbox icon color"
+msgstr "灯箱图标颜色"
+
+#: ../post-type-features.php:6
+msgctxt "post type general name"
+msgid "Features"
+msgstr "精选"
+
+#: ../post-type-features.php:7
+msgctxt "post type singular name"
+msgid "Feature"
+msgstr "精选"
+
+#: ../post-type-features.php:8
+msgctxt "features"
+msgid "Add New"
+msgstr "添加"
+
+#: ../post-type-features.php:9
+msgid "Add New Feature"
+msgstr "添加精选"
+
+#: ../post-type-features.php:10
+msgid "Edit Feature"
+msgstr "编辑精选"
+
+#: ../post-type-features.php:11
+msgid "New Feature"
+msgstr "新精选"
+
+#: ../post-type-features.php:12
+msgid "All Features"
+msgstr "所有精选"
+
+#: ../post-type-features.php:13
+msgid "View Feature"
+msgstr "查看精选"
+
+#: ../post-type-features.php:14
+msgid "Search Features"
+msgstr "搜索精选"
+
+#: ../post-type-features.php:15
+msgid "No features found"
+msgstr "没有精选"
+
+#: ../post-type-features.php:16
+msgid "No features found in Trash"
+msgstr "回收站没有精选"
+
+#: ../post-type-features.php:18
+msgid "Features"
+msgstr "精选"
+
+#: ../post-type-features.php:68
+msgid "address"
+msgstr "地址"
+
+#: ../post-type-features.php:69
+msgid "adjust"
+msgstr "调整"
+
+#: ../post-type-features.php:70
+msgid "administration"
+msgstr "管理"
+
+#: ../post-type-features.php:71
+msgid "app"
+msgstr "应用"
+
+#: ../post-type-features.php:72
+msgid "award"
+msgstr "奖杯"
+
+#: ../post-type-features.php:73
+msgid "balance"
+msgstr "天平"
+
+#: ../post-type-features.php:74
+msgid "battery"
+msgstr "电池"
+
+#: ../post-type-features.php:75
+msgid "bed"
+msgstr "床"
+
+#: ../post-type-features.php:76
+msgid "bin"
+msgstr "箱子"
+
+#: ../post-type-features.php:77
+msgid "binders"
+msgstr "粘合剂"
+
+#: ../post-type-features.php:78
+msgid "binoculars"
+msgstr "望远镜"
+
+#: ../post-type-features.php:79
+msgid "bookmark"
+msgstr "书签"
+
+#: ../post-type-features.php:80
+msgid "box"
+msgstr "框"
+
+#: ../post-type-features.php:81
+msgid "briefcase"
+msgstr "公文包"
+
+#: ../post-type-features.php:82
+msgid "building"
+msgstr "大楼"
+
+#: ../post-type-features.php:83
+msgid "calendar"
+msgstr "日历"
+
+#: ../post-type-features.php:84
+msgid "cart"
+msgstr "购物车"
+
+#: ../post-type-features.php:85
+msgid "chart"
+msgstr "饼图"
+
+#: ../post-type-features.php:86
+msgid "chat"
+msgstr "聊天"
+
+#: ../post-type-features.php:87
+msgid "clock"
+msgstr "时钟"
+
+#: ../post-type-features.php:88
+msgid "cloud upload"
+msgstr "云上传"
+
+#: ../post-type-features.php:89
+msgid "config"
+msgstr "配置"
+
+#: ../post-type-features.php:90
+msgid "credit card"
+msgstr "信用卡"
+
+#: ../post-type-features.php:91
+msgid "cross"
+msgstr "交叉"
+
+#: ../post-type-features.php:92
+msgid "database"
+msgstr "数据库"
+
+#: ../post-type-features.php:93
+msgid "diary"
+msgstr "日记"
+
+#: ../post-type-features.php:94
+msgid "document"
+msgstr "文档"
+
+#: ../post-type-features.php:95
+msgid "download"
+msgstr "下载"
+
+#: ../post-type-features.php:96
+msgid "dropper"
+msgstr "滴管"
+
+#: ../post-type-features.php:97
+msgid "fail"
+msgstr "失败"
+
+#: ../post-type-features.php:98
+msgid "fax"
+msgstr "传真"
+
+#: ../post-type-features.php:99
+msgid "first aid"
+msgstr "急救"
+
+#: ../post-type-features.php:100
+msgid "folder"
+msgstr "文件夹"
+
+#: ../post-type-features.php:101
+msgid "form"
+msgstr "表单"
+
+#: ../post-type-features.php:102
+msgid "gallery"
+msgstr "相册"
+
+#: ../post-type-features.php:103
+msgid "glasses"
+msgstr "眼镜"
+
+#: ../post-type-features.php:104
+msgid "graph"
+msgstr "图表"
+
+#: ../post-type-features.php:105
+msgid "healthcare"
+msgstr "保健"
+
+#: ../post-type-features.php:106
+msgid "heart"
+msgstr "心"
+
+#: ../post-type-features.php:107
+msgid "home"
+msgstr "家"
+
+#: ../post-type-features.php:108
+msgid "hourglass"
+msgstr "沙漏"
+
+#: ../post-type-features.php:109
+msgid "hyperlink"
+msgstr "超链接"
+
+#: ../post-type-features.php:110
+msgid "id"
+msgstr "id"
+
+#: ../post-type-features.php:111
+msgid "image"
+msgstr "图片"
+
+#: ../post-type-features.php:112
+msgid "info"
+msgstr "信息"
+
+#: ../post-type-features.php:113
+msgid "keyboard"
+msgstr "键盘"
+
+#: ../post-type-features.php:114
+msgid "lab"
+msgstr "实验"
+
+#: ../post-type-features.php:115
+msgid "laptop"
+msgstr "笔记本电脑"
+
+#: ../post-type-features.php:116
+msgid "leaf"
+msgstr "叶子"
+
+#: ../post-type-features.php:117
+msgid "list"
+msgstr "列表"
+
+#: ../post-type-features.php:118
+msgid "lock"
+msgstr "锁"
+
+#: ../post-type-features.php:119
+msgid "luggage"
+msgstr "行李"
+
+#: ../post-type-features.php:120
+msgid "mail"
+msgstr "邮箱"
+
+#: ../post-type-features.php:121
+msgid "mic"
+msgstr "麦克风"
+
+#: ../post-type-features.php:122
+msgid "minus"
+msgstr "减"
+
+#: ../post-type-features.php:123
+msgid "mobile"
+msgstr "移动"
+
+#: ../post-type-features.php:124
+msgid "money"
+msgstr "钱"
+
+#: ../post-type-features.php:125
+msgid "movie"
+msgstr "电影"
+
+#: ../post-type-features.php:126
+msgid "network"
+msgstr "网络"
+
+#: ../post-type-features.php:127
+msgid "oscilloscope"
+msgstr "示波器"
+
+#: ../post-type-features.php:128
+msgid "paintbrush"
+msgstr "画笔"
+
+#: ../post-type-features.php:129
+msgid "people"
+msgstr "人们"
+
+#: ../post-type-features.php:130
+msgid "phone"
+msgstr "电话"
+
+#: ../post-type-features.php:131
+msgid "piano"
+msgstr "钢琴"
+
+#: ../post-type-features.php:132
+msgid "pill"
+msgstr "药丸"
+
+#: ../post-type-features.php:133
+msgid "pin"
+msgstr "针"
+
+#: ../post-type-features.php:134
+msgid "plus"
+msgstr "加号"
+
+#: ../post-type-features.php:135
+msgid "printer"
+msgstr "打印机"
+
+#: ../post-type-features.php:136
+msgid "projector"
+msgstr "投影机"
+
+#: ../post-type-features.php:137
+msgid "question mark"
+msgstr "标记问题"
+
+#: ../post-type-features.php:138
+msgid "quote"
+msgstr "引用"
+
+#: ../post-type-features.php:139
+msgid "restaurant"
+msgstr "餐馆"
+
+#: ../post-type-features.php:140
+msgid "rss"
+msgstr "rss"
+
+#: ../post-type-features.php:141
+msgid "screen"
+msgstr "屏幕"
+
+#: ../post-type-features.php:142
+msgid "shield"
+msgstr "盾"
+
+#: ../post-type-features.php:143
+msgid "signpost"
+msgstr "路标"
+
+#: ../post-type-features.php:144
+msgid "speaker"
+msgstr "扬声器"
+
+#: ../post-type-features.php:145
+msgid "success"
+msgstr "成功"
+
+#: ../post-type-features.php:146
+msgid "syringe"
+msgstr "注射器"
+
+#: ../post-type-features.php:147
+msgid "tablet"
+msgstr "平板"
+
+#: ../post-type-features.php:148
+msgid "tags"
+msgstr "标签"
+
+#: ../post-type-features.php:149
+msgid "target"
+msgstr "目标"
+
+#: ../post-type-features.php:150
+msgid "tick"
+msgstr "打勾"
+
+#: ../post-type-features.php:151
+msgid "upload"
+msgstr "上传"
+
+#: ../post-type-features.php:152
+msgid "video"
+msgstr "视频"
+
+#: ../post-type-features.php:153
+msgid "wall"
+msgstr "墙"
+
+#: ../post-type-features.php:154
+msgid "wallet"
+msgstr "钱包"
+
+#: ../post-type-features.php:155
+msgid "warning"
+msgstr "警告"
+
+#: ../post-type-features.php:156
+msgid "weight"
+msgstr "重量"
+
+#: ../post-type-features.php:157
+msgid "wheelchair"
+msgstr "轮椅"
+
+#: ../post-type-features.php:316 ../shortcodes/blog.php:170
+#: ../shortcodes/blog.php:174
+msgid "Read more"
+msgstr "阅读更多"
+
+#: ../post-type-features.php:316 ../shortcodes/blog.php:170
+#: ../shortcodes/blog.php:174
+msgid "Read more &rarr;"
+msgstr "阅读更多&rarr;"
+
+#: ../post-type-features.php:352
+msgid "Features list"
+msgstr "精选列表"
+
+#: ../post-type-features.php:379 ../shortcodes/announcement_box.php:101
+#: ../shortcodes/shortcodes.php:331
+msgid "Large"
+msgstr "大"
+
+#: ../post-type-features.php:379 ../shortcodes/announcement_box.php:101
+#: ../shortcodes/shortcodes.php:331
+msgid "Small"
+msgstr "小"
+
+#: ../post-type-features.php:405
+msgid "Headers"
+msgstr "标题"
+
+#: ../post-type-features.php:412
+msgid "Headers links"
+msgstr "标题链接"
+
+#: ../post-type-features.php:419 ../shortcodes/blog.php:355
+#: ../shortcodes/items_list.php:157
+msgid "Read more button"
+msgstr "阅读更多按钮"
+
+#: ../post-type-features.php:426
+msgid "Icon links"
+msgstr "图标链接"
+
+#: ../post-type-features.php:432
+msgid "Icon animation"
+msgstr "图标动画"
+
+#: ../post-type-features.php:436 ../shortcodes/announcement_box.php:153
+#: ../shortcodes/blog.php:403 ../shortcodes/blog.php:437
+#: ../shortcodes/shortcodes.php:803 ../shortcodes/shortcodes.php:834
+#: ../shortcodes/single-post.php:255 ../shortcodes/single-post.php:344
+#: ../shortcodes/single-post.php:375 ../widgets/widget-footer-box.php:154
+#: ../widgets/widget-home-box.php:280
+msgid "fade in"
+msgstr "淡入"
+
+#: ../post-type-features.php:437 ../shortcodes/announcement_box.php:154
+#: ../shortcodes/blog.php:404 ../shortcodes/blog.php:438
+#: ../shortcodes/shortcodes.php:804 ../shortcodes/shortcodes.php:835
+#: ../shortcodes/single-post.php:256 ../shortcodes/single-post.php:345
+#: ../shortcodes/single-post.php:376 ../widgets/widget-footer-box.php:155
+#: ../widgets/widget-home-box.php:281
+msgid "scale"
+msgstr "尺度"
+
+#: ../post-type-features.php:438 ../shortcodes/announcement_box.php:155
+#: ../shortcodes/blog.php:405 ../shortcodes/blog.php:439
+#: ../shortcodes/shortcodes.php:805 ../shortcodes/shortcodes.php:836
+#: ../shortcodes/single-post.php:257 ../shortcodes/single-post.php:346
+#: ../shortcodes/single-post.php:377 ../widgets/widget-footer-box.php:156
+#: ../widgets/widget-home-box.php:282
+msgid "slide right"
+msgstr "向右滑动"
+
+#: ../post-type-features.php:439 ../shortcodes/announcement_box.php:156
+#: ../shortcodes/blog.php:406 ../shortcodes/blog.php:440
+#: ../shortcodes/shortcodes.php:806 ../shortcodes/shortcodes.php:837
+#: ../shortcodes/single-post.php:258 ../shortcodes/single-post.php:347
+#: ../shortcodes/single-post.php:378 ../widgets/widget-footer-box.php:157
+#: ../widgets/widget-home-box.php:283
+msgid "slide right 200%"
+msgstr "向右滑动200%"
+
+#: ../post-type-features.php:440 ../shortcodes/announcement_box.php:157
+#: ../shortcodes/blog.php:407 ../shortcodes/blog.php:441
+#: ../shortcodes/shortcodes.php:807 ../shortcodes/shortcodes.php:838
+#: ../shortcodes/single-post.php:259 ../shortcodes/single-post.php:348
+#: ../shortcodes/single-post.php:379 ../widgets/widget-footer-box.php:158
+#: ../widgets/widget-home-box.php:284
+msgid "slide left"
+msgstr "向左滑动"
+
+#: ../post-type-features.php:441 ../shortcodes/announcement_box.php:158
+#: ../shortcodes/blog.php:408 ../shortcodes/blog.php:442
+#: ../shortcodes/shortcodes.php:808 ../shortcodes/shortcodes.php:839
+#: ../shortcodes/single-post.php:260 ../shortcodes/single-post.php:349
+#: ../shortcodes/single-post.php:380 ../widgets/widget-footer-box.php:159
+#: ../widgets/widget-home-box.php:285
+msgid "slide left 50%"
+msgstr "向左滑动50%"
+
+#: ../post-type-features.php:442 ../shortcodes/announcement_box.php:159
+#: ../shortcodes/blog.php:409 ../shortcodes/blog.php:443
+#: ../shortcodes/shortcodes.php:809 ../shortcodes/shortcodes.php:840
+#: ../shortcodes/single-post.php:261 ../shortcodes/single-post.php:350
+#: ../shortcodes/single-post.php:381 ../widgets/widget-footer-box.php:160
+#: ../widgets/widget-home-box.php:286
+msgid "slide down"
+msgstr "向下滑动"
+
+#: ../post-type-features.php:443 ../shortcodes/announcement_box.php:160
+#: ../shortcodes/blog.php:410 ../shortcodes/blog.php:444
+#: ../shortcodes/shortcodes.php:810 ../shortcodes/shortcodes.php:841
+#: ../shortcodes/single-post.php:262 ../shortcodes/single-post.php:351
+#: ../shortcodes/single-post.php:382 ../widgets/widget-footer-box.php:161
+#: ../widgets/widget-home-box.php:287
+msgid "slide down 200%"
+msgstr "向下滑动200%"
+
+#: ../post-type-features.php:444 ../shortcodes/announcement_box.php:161
+#: ../shortcodes/blog.php:411 ../shortcodes/blog.php:445
+#: ../shortcodes/shortcodes.php:811 ../shortcodes/shortcodes.php:842
+#: ../shortcodes/single-post.php:263 ../shortcodes/single-post.php:352
+#: ../shortcodes/single-post.php:383 ../widgets/widget-footer-box.php:162
+#: ../widgets/widget-home-box.php:288
+msgid "slide up"
+msgstr "向上滑动"
+
+#: ../post-type-features.php:450
+msgid "Icon animation duration"
+msgstr "图标动画时间"
+
+#: ../post-type-features.php:457
+msgid "Icon animation delay"
+msgstr "图标动画延迟"
+
+#: ../post-type-gallery.php:6
+msgctxt "post type general name"
+msgid "Gallery"
+msgstr "相册"
+
+#: ../post-type-gallery.php:7
+msgctxt "post type singular name"
+msgid "Gallery Item"
+msgstr "相册项目"
+
+#: ../post-type-gallery.php:8
+msgctxt "medicenter_gallery"
+msgid "Add New"
+msgstr "添加"
+
+#: ../post-type-gallery.php:9
+msgid "Add New Gallery Item"
+msgstr "添加相册项目"
+
+#: ../post-type-gallery.php:10
+msgid "Edit Gallery Item"
+msgstr "编辑相册项目"
+
+#: ../post-type-gallery.php:11
+msgid "New Gallery Item"
+msgstr "新相册项目"
+
+#: ../post-type-gallery.php:12
+msgid "All Gallery Items"
+msgstr "所有相册项目"
+
+#: ../post-type-gallery.php:13
+msgid "View Gallery Item"
+msgstr "查看相册项目"
+
+#: ../post-type-gallery.php:14
+msgid "Search Gallery Item"
+msgstr "搜索相册项目"
+
+#: ../post-type-gallery.php:15
+msgid "No gallery items found"
+msgstr "没找到相册项目"
+
+#: ../post-type-gallery.php:16
+msgid "No gallery items found in Trash"
+msgstr "回收站没有相册项目"
+
+#: ../post-type-gallery.php:18
+msgid "Gallery"
+msgstr "相册"
+
+#: ../post-type-gallery.php:378
+msgid "Video URL"
+msgstr "视频地址"
+
+#: ../post-type-gallery.php:379
+msgid "Iframe URL"
+msgstr "框架网址"
+
+#: ../post-type-gallery.php:380
+msgid "External URL"
+msgstr "外部网址"
+
+#: ../post-type-gallery.php:460
+msgid "Gallery items list"
+msgstr "相册项目列表"
+
+#: ../post-type-gallery.php:508
+msgid "Item width 225px"
+msgstr "项目宽度225px"
+
+#: ../post-type-gallery.php:508
+msgid "Item width 480px"
+msgstr "项目宽度480px"
+
+#: ../post-type-gallery.php:508
+msgid "Item width 310px"
+msgstr "项目宽度310px"
+
+#: ../post-type-weekdays.php:8
+msgctxt "post type general name"
+msgid "Weekdays"
+msgstr "工作日"
+
+#: ../post-type-weekdays.php:9
+msgctxt "post type singular name"
+msgid "Day"
+msgstr "天"
+
+#: ../post-type-weekdays.php:10
+msgctxt "_weekdays"
+msgid "Add New"
+msgstr "添加"
+
+#: ../post-type-weekdays.php:11
+msgid "Add New Day"
+msgstr "添加天"
+
+#: ../post-type-weekdays.php:12
+msgid "Edit Day"
+msgstr "编辑天"
+
+#: ../post-type-weekdays.php:13
+msgid "New Day"
+msgstr "新天"
+
+#: ../post-type-weekdays.php:14
+msgid "All Weekdays"
+msgstr "所有工作日"
+
+#: ../post-type-weekdays.php:15
+msgid "View Day"
+msgstr "查看天"
+
+#: ../post-type-weekdays.php:16
+msgid "Search Weekdays"
+msgstr "搜索工作日"
+
+#: ../post-type-weekdays.php:17
+msgid "No weekdays found"
+msgstr "未找到工作日"
+
+#: ../post-type-weekdays.php:18
+msgid "No weekdays found in Trash"
+msgstr "回收站没有工作日"
+
+#: ../post-type-weekdays.php:20
+msgid "Weekdays"
+msgstr "工作日"
+
+#: ../post-type-weekdays.php:42
+msgctxt "post type singular name"
+msgid "Day name"
+msgstr "天名字"
+
+#: ../search.php:11
+msgid "Search results"
+msgstr "搜索结果"
+
+#: ../search.php:22
+msgid "Results for phrase:"
+msgstr "结果词语："
+
+#: ../searchform.php:2
+msgid "To search type and hit enter..."
+msgstr "搜索输入并回车..."
+
+#: ../shortcodes/accordion.php:37
+msgid "Attribute id is required. For example [accordion_item id='item-1']"
+msgstr "属性是必须的。例如[accordion_item id='item-1']"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Dark blue"
+msgstr "深蓝"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Blue"
+msgstr "蓝色"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Light blue"
+msgstr "浅蓝"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Black"
+msgstr "黑色"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Gray"
+msgstr "灰色"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Dark gray"
+msgstr "深灰"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Light gray"
+msgstr "浅灰"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Green"
+msgstr "绿色"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Dark green"
+msgstr "深绿"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Light green"
+msgstr "浅绿"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Orange"
+msgstr "橙色"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Dark orange"
+msgstr "深橙"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Light orange"
+msgstr "浅橙"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Red"
+msgstr "红色"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Dark red"
+msgstr "深红"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Light red"
+msgstr "浅红"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Turquoise"
+msgstr "青绿"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Dark turquoise"
+msgstr "深青"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Light turquoise"
+msgstr "浅青"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Violet"
+msgstr "紫色"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Dark violet"
+msgstr "深紫"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Light violet"
+msgstr "浅紫"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "White"
+msgstr "白色"
+
+#: ../shortcodes/announcement_box.php:41 ../shortcodes/notification_box.php:28
+#: ../shortcodes/shortcodes.php:330 ../shortcodes/shortcodes.php:631
+#: ../widgets/widget-departments.php:165
+msgid "Yellow"
+msgstr "黄色"
+
+#: ../shortcodes/announcement_box.php:43
+msgid "Announcement box"
+msgstr "消息框"
+
+#: ../shortcodes/announcement_box.php:63 ../shortcodes/items_list.php:138
+#: ../shortcodes/shortcodes.php:95 ../shortcodes/shortcodes.php:377
+#: ../shortcodes/shortcodes.php:661 ../widgets/widget-appointment.php:143
+#: ../widgets/widget-contact-details.php:204
+#: ../widgets/widget-footer-box.php:111 ../widgets/widget-home-box.php:176
+msgid "Content"
+msgstr "内容"
+
+#: ../shortcodes/announcement_box.php:70 ../shortcodes/items_list.php:164
+#: ../widgets/widget-home-box.php:189
+msgid "Button label"
+msgstr "按钮标签"
+
+#: ../shortcodes/announcement_box.php:77 ../shortcodes/items_list.php:172
+#: ../widgets/widget-home-box.php:185
+msgid "Button url"
+msgstr "按钮网址"
+
+#: ../shortcodes/announcement_box.php:99
+msgid "Button size"
+msgstr "按钮大小"
+
+#: ../shortcodes/announcement_box.php:101 ../shortcodes/shortcodes.php:331
+msgid "Medium"
+msgstr "中"
+
+#: ../shortcodes/announcement_box.php:101 ../shortcodes/shortcodes.php:331
+msgid "Tiny"
+msgstr "微型"
+
+#: ../shortcodes/announcement_box.php:105 ../widgets/widget-departments.php:252
+msgid "Button color"
+msgstr "按钮颜色"
+
+#: ../shortcodes/announcement_box.php:113 ../shortcodes/shortcodes.php:455
+msgid "or pick custom button color"
+msgstr "或选择自定义按钮颜色"
+
+#: ../shortcodes/announcement_box.php:119
+msgid "Button hover Color"
+msgstr "按钮悬停颜色"
+
+#: ../shortcodes/announcement_box.php:127 ../shortcodes/shortcodes.php:470
+msgid "or pick custom button hover color"
+msgstr "或选择自定义按钮悬停颜色"
+
+#: ../shortcodes/announcement_box.php:135 ../widgets/widget-departments.php:301
+#: ../widgets/widget-home-box.php:200
+msgid "Button text color"
+msgstr "按钮文字颜色"
+
+#: ../shortcodes/announcement_box.php:143
+msgid "Button Hover text color"
+msgstr "按钮悬停文字颜色"
+
+#: ../shortcodes/announcement_box.php:149
+msgid "Button animation"
+msgstr "按钮动画"
+
+#: ../shortcodes/announcement_box.php:167
+msgid "Button animation duration"
+msgstr "按钮动画时间"
+
+#: ../shortcodes/announcement_box.php:174
+msgid "Button animation delay"
+msgstr "按钮动画延迟"
+
+#: ../shortcodes/blog.php:182 ../shortcodes/single-post.php:128
+msgid "Posted in "
+msgstr "发布于"
+
+#: ../shortcodes/blog.php:188 ../shortcodes/single-post.php:134
+#, php-format
+msgid "View all posts filed under %s"
+msgstr "查看%s下的所有文章字段"
+
+#: ../shortcodes/blog.php:199 ../shortcodes/single-post.php:145
+msgid "Posted by"
+msgstr "作者："
+
+#: ../shortcodes/blog.php:208
+msgid "Posted on"
+msgstr "发表在"
+
+#: ../shortcodes/blog.php:219
+msgid "Comments:"
+msgstr "评论："
+
+#: ../shortcodes/blog.php:229
+#, php-format
+msgid "No results found for %s"
+msgstr "找不到%s的结果"
+
+#: ../shortcodes/blog.php:278
+msgid "Blog"
+msgstr "博客"
+
+#: ../shortcodes/blog.php:296
+msgid "Items per page/Post count"
+msgstr "每页项目/文章数"
+
+#: ../shortcodes/blog.php:299
+msgid ""
+"Items per page if pagination is set to 'yes' or post count otherwise. Set -1 "
+"to display all."
+msgstr "如果页码设置为'是'或文章数其它时每页项目。设置为-1显示所有"
+
+#: ../shortcodes/blog.php:311 ../shortcodes/single-post.php:210
+msgid "Layout type"
+msgstr "布局类型"
+
+#: ../shortcodes/blog.php:313
+msgid "Type 3 (simple)"
+msgstr "类型3（简单）"
+
+#: ../shortcodes/blog.php:322
+msgid ""
+"Please provide post ids separated with commas, to display only selected posts"
+msgstr "请提供用逗号分隔的文章ID，只显示所选的文章"
+
+#: ../shortcodes/blog.php:348 ../shortcodes/single-post.php:217
+msgid "Show post title"
+msgstr "显示文章标题"
+
+#: ../shortcodes/blog.php:362 ../shortcodes/single-post.php:231
+msgid "Show post categories"
+msgstr "显示文章分类"
+
+#: ../shortcodes/blog.php:369 ../shortcodes/single-post.php:238
+msgid "Show post author"
+msgstr "显示文章作者"
+
+#: ../shortcodes/blog.php:376 ../shortcodes/single-post.php:318
+msgid "Show post date in box above post"
+msgstr "在文章上面框里显示发布日期"
+
+#: ../shortcodes/blog.php:384
+msgid "Show comments number in box above/beside the post"
+msgstr "在文章框上面/旁边显示评论数"
+
+#: ../shortcodes/blog.php:392
+msgid "Show comments number label in box above/beside the post"
+msgstr "在文章框上面/旁边显示评论数标签"
+
+#: ../shortcodes/blog.php:399 ../shortcodes/single-post.php:340
+msgid "Post date box animation"
+msgstr "发布日期框动画"
+
+#: ../shortcodes/blog.php:418 ../shortcodes/single-post.php:358
+msgid "Post date box animation duration (ms)"
+msgstr "发布日期框动画持续时间（毫秒）"
+
+#: ../shortcodes/blog.php:426 ../shortcodes/single-post.php:365
+msgid "Post date box animation delay (ms)"
+msgstr "发布日期框动画延迟（毫秒）"
+
+#: ../shortcodes/blog.php:433 ../shortcodes/single-post.php:371
+msgid "Post comments box animation"
+msgstr "显示评论框动画"
+
+#: ../shortcodes/blog.php:452 ../shortcodes/single-post.php:389
+msgid "Post comments box animation duration (ms)"
+msgstr "发表评论框动画持续时间（毫秒）"
+
+#: ../shortcodes/blog.php:460 ../shortcodes/single-post.php:396
+msgid "Post comments box animation delay (ms)"
+msgstr "发表评论框动画延迟（毫秒）"
+
+#: ../shortcodes/blog.php:468
+msgid "Show post date in post footer"
+msgstr "在文章页脚显示文章日期"
+
+#: ../shortcodes/blog.php:475
+msgid "Show comments number in post footer"
+msgstr "在文章页脚显示评论数"
+
+#: ../shortcodes/carousel.php:124 ../shortcodes/photostream.php:65
+#: ../shortcodes/small_slider.php:98
+msgid "Add images"
+msgstr "添加图像"
+
+#: ../shortcodes/carousel.php:189 ../shortcodes/photostream.php:143
+#: ../shortcodes/small_slider.php:160
+msgid "Images"
+msgstr "图片"
+
+#: ../shortcodes/carousel.php:223 ../shortcodes/small_slider.php:194
+msgid "Image title"
+msgstr "图片标题"
+
+#: ../shortcodes/carousel.php:231
+msgid "Image subtitle"
+msgstr "图片子标题"
+
+#: ../shortcodes/icon.php:154
+msgid "Social body"
+msgstr "社交主体"
+
+#: ../shortcodes/icon.php:154
+msgid "Social footer"
+msgstr "社交页脚"
+
+#: ../shortcodes/icon.php:154
+msgid "Feature large"
+msgstr "精选大"
+
+#: ../shortcodes/icon.php:154
+msgid "Feature small"
+msgstr "精选小"
+
+#: ../shortcodes/icon.php:224 ../shortcodes/shortcodes.php:568
+#: ../shortcodes/shortcodes.php:739 ../shortcodes/shortcodes.php:785
+#: ../shortcodes/small_slider.php:146 ../shortcodes/testimonials.php:93
+#: ../widgets/widget-appointment.php:128
+#: ../widgets/widget-contact-details.php:193
+#: ../widgets/widget-departments.php:168 ../widgets/widget-footer-box.php:95
+#: ../widgets/widget-home-box.php:131
+#: ../widgets/widget-scrolling-most-commented.php:97
+#: ../widgets/widget-scrolling-most-viewed.php:96
+#: ../widgets/widget-scrolling-recent-posts.php:89
+#: ../widgets/widget-twitter.php:108
+msgid "Title"
+msgstr "标题"
+
+#: ../shortcodes/icon.php:232 ../shortcodes/items_list.php:187
+#: ../shortcodes/notification_box.php:93 ../shortcodes/shortcodes.php:216
+#: ../shortcodes/shortcodes.php:254 ../shortcodes/shortcodes.php:315
+#: ../shortcodes/shortcodes.php:476 ../shortcodes/shortcodes.php:598
+#: ../shortcodes/shortcodes.php:701
+msgid "Extra class name"
+msgstr "额外的类名"
+
+#: ../shortcodes/items_list.php:130
+msgid "Top margin header"
+msgstr "上边距标题"
+
+#: ../shortcodes/map.php:82
+msgid "Google map"
+msgstr "谷歌地图"
+
+#: ../shortcodes/map.php:93
+msgid "Google API Key"
+msgstr "谷歌API密钥"
+
+#: ../shortcodes/map.php:96
+msgid "Please provide valid Google API Key under <a href='"
+msgstr "请提供有效的谷歌API Key 在<a href='"
+
+#: ../shortcodes/map.php:104
+msgid ""
+"Please provide unique id for each map on the same page/post.<br/>Use only "
+"lowercase letters from a to z and underscores, don't use spaces and dashes "
+"as they will cause issues."
+msgstr ""
+"请为相同页面/文章每个地图提供唯一的ID<br/>只使用从a到z的小写字母和下划线，不"
+"使用空格和破折号，因为它们会导致一些问题。"
+
+#: ../shortcodes/map.php:109 ../shortcodes/shortcodes.php:274
+msgid "Width"
+msgstr "宽度"
+
+#: ../shortcodes/map.php:116
+msgid "Height"
+msgstr "高度"
+
+#: ../shortcodes/map.php:123
+msgid "Map type"
+msgstr "地图类型"
+
+#: ../shortcodes/map.php:125
+msgid "Roadmap"
+msgstr "路线图"
+
+#: ../shortcodes/map.php:125
+msgid "Satellite"
+msgstr "卫星图"
+
+#: ../shortcodes/map.php:125
+msgid "Hybrid"
+msgstr "混合图"
+
+#: ../shortcodes/map.php:125
+msgid "Terrain"
+msgstr "地形图"
+
+#: ../shortcodes/map.php:130
+msgid "Latitude"
+msgstr "纬度"
+
+#: ../shortcodes/map.php:133 ../shortcodes/map.php:141
+#: ../shortcodes/map.php:149 ../shortcodes/map.php:157
+msgid ""
+"You can use this <a href='http://www.birdtheme.org/useful/v3tool.html' "
+"target='_blank'>http://www.birdtheme.org/useful/v3tool.html</a> tool to "
+"designate coordinates"
+msgstr ""
+"你可以使用此<a href='http://www.birdtheme.org/useful/googletool.html' "
+"target='_blank'>http://www.birdtheme.org/useful/googletool.html</a>工具指定坐"
+"标"
+
+#: ../shortcodes/map.php:138
+msgid "Longitude"
+msgstr "经度"
+
+#: ../shortcodes/map.php:146
+msgid "Marker/Point Latitude"
+msgstr "标记/点纬度"
+
+#: ../shortcodes/map.php:154
+msgid "Marker/point Longitude"
+msgstr "标记/点经度"
+
+#: ../shortcodes/map.php:161
+msgid "Map Zoom"
+msgstr "地图缩放"
+
+#: ../shortcodes/map.php:163
+msgid "12 - Default"
+msgstr "12 - 默认"
+
+#: ../shortcodes/map.php:168
+msgid "Street view control"
+msgstr "街景控制"
+
+#: ../shortcodes/map.php:175
+msgid "Enable scrollwheel"
+msgstr "启用滚轮"
+
+#: ../shortcodes/map.php:182
+msgid "Map type control"
+msgstr "地图类型控制"
+
+#: ../shortcodes/map.php:189
+msgid "Marker/Point icon url"
+msgstr "标记/点图标网址"
+
+#: ../shortcodes/map.php:196
+msgid "Icon width"
+msgstr "图标宽度"
+
+#: ../shortcodes/map.php:203
+msgid "Icon height"
+msgstr "图标高度"
+
+#: ../shortcodes/map.php:210
+msgid "Icon anchor x"
+msgstr "图标锚x"
+
+#: ../shortcodes/map.php:217
+msgid "Icon anchor y"
+msgstr "图标锚y"
+
+#: ../shortcodes/notification_box.php:22
+msgid "Closing in "
+msgstr "关闭"
+
+#: ../shortcodes/notification_box.php:22
+msgid " sec..."
+msgstr "秒..."
+
+#: ../shortcodes/notification_box.php:30
+msgid "Notification box"
+msgstr "通知框"
+
+#: ../shortcodes/notification_box.php:48
+msgid "Info text"
+msgstr "信息文字"
+
+#: ../shortcodes/notification_box.php:56
+msgid "Success"
+msgstr "成功"
+
+#: ../shortcodes/notification_box.php:56
+msgid "Error"
+msgstr "错误"
+
+#: ../shortcodes/notification_box.php:56
+msgid "Info"
+msgstr "信息"
+
+#: ../shortcodes/notification_box.php:61
+msgid "Auto closing time (in seconds)"
+msgstr "自动关闭时间（秒）"
+
+#: ../shortcodes/notification_box.php:69
+msgid "Custom background color"
+msgstr "自定义背景颜色"
+
+#: ../shortcodes/notification_box.php:77
+msgid "Header text color"
+msgstr "标题文字颜色"
+
+#: ../shortcodes/notification_box.php:85 ../shortcodes/shortcodes.php:692
+#: ../widgets/widget-home-box.php:180
+msgid "Content text color"
+msgstr "内容文字颜色"
+
+#: ../shortcodes/photostream.php:124
+msgid "Photostream"
+msgstr "照片流"
+
+#: ../shortcodes/photostream.php:138
+msgid "Please provide unique id for each photostream on the same page/post"
+msgstr "请在相同页面/文章为每个照片流指定唯一ID"
+
+#: ../shortcodes/pricing_table.php:18
+msgid "Pricing table"
+msgstr "价格表"
+
+#: ../shortcodes/shortcodes.php:83 ../shortcodes/shortcodes.php:104
+msgid "Select top margin value for your row"
+msgstr "为行选择上边距"
+
+#: ../shortcodes/shortcodes.php:90
+msgid "Row"
+msgstr "行"
+
+#: ../shortcodes/shortcodes.php:96
+msgid "Place content elements inside the row"
+msgstr "把内容元素放到行里"
+
+#: ../shortcodes/shortcodes.php:108
+msgid "Full height row?"
+msgstr "全高行？"
+
+#: ../shortcodes/shortcodes.php:110
+msgid "If checked row will be set to full height."
+msgstr "如果选中，行会被设置为全高。"
+
+#: ../shortcodes/shortcodes.php:115
+msgid "Columns position"
+msgstr "列位置"
+
+#: ../shortcodes/shortcodes.php:118 ../shortcodes/shortcodes.php:143
+msgid "Middle"
+msgstr "中"
+
+#: ../shortcodes/shortcodes.php:119 ../shortcodes/shortcodes.php:142
+msgid "Top"
+msgstr "上"
+
+#: ../shortcodes/shortcodes.php:120 ../shortcodes/shortcodes.php:144
+msgid "Bottom"
+msgstr "下"
+
+#: ../shortcodes/shortcodes.php:121
+msgid "Stretch"
+msgstr "拉伸"
+
+#: ../shortcodes/shortcodes.php:123
+msgid "Select columns position within row."
+msgstr "选择行内列位置"
+
+#: ../shortcodes/shortcodes.php:131
+msgid "Equal height"
+msgstr "相同高度"
+
+#: ../shortcodes/shortcodes.php:133
+msgid "If checked columns will be set to equal height."
+msgstr "如果选中列将设置为相同高度。"
+
+#: ../shortcodes/shortcodes.php:138
+msgid "Content position"
+msgstr "内容位置"
+
+#: ../shortcodes/shortcodes.php:146
+msgid "Select content position within columns."
+msgstr "选择列内内容位置"
+
+#: ../shortcodes/shortcodes.php:150
+msgid "Use video background?"
+msgstr "使用视频背景？"
+
+#: ../shortcodes/shortcodes.php:152
+msgid "If checked, video will be used as row background."
+msgstr "如果选中，视频将被用作行背景。"
+
+#: ../shortcodes/shortcodes.php:157
+msgid "YouTube link"
+msgstr "YouTube链接"
+
+#: ../shortcodes/shortcodes.php:161
+msgid "Add YouTube link."
+msgstr "添加YouTube链接"
+
+#: ../shortcodes/shortcodes.php:169 ../shortcodes/shortcodes.php:184
+msgid "Parallax"
+msgstr "视差"
+
+#: ../shortcodes/shortcodes.php:174 ../shortcodes/shortcodes.php:189
+msgid "With fade"
+msgstr "带淡入"
+
+#: ../shortcodes/shortcodes.php:176
+msgid "Add parallax type background for row."
+msgstr "为行添加视差类型背影"
+
+#: ../shortcodes/shortcodes.php:191
+msgid ""
+"Add parallax type background for row (Note: If no image is specified, "
+"parallax will use background image from Design Options)."
+msgstr ""
+"为行添加视差类型背景（注意：如果不指定图片，视差将使用设计选项背景图片）"
+
+#: ../shortcodes/shortcodes.php:199
+msgid "Image"
+msgstr "图片"
+
+#: ../shortcodes/shortcodes.php:202
+msgid "Select image from media library."
+msgstr "从媒体库中选择图片."
+
+#: ../shortcodes/shortcodes.php:210
+msgid "Row ID"
+msgstr "行ID"
+
+#: ../shortcodes/shortcodes.php:212
+#, php-format
+msgid ""
+"Enter row ID (Note: make sure it is unique and valid according to <a href="
+"\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+"输入行ID（注意：确保它是唯一的，且有效的符合<a href=\"%s\" target=\"_blank"
+"\">w3c规范</a>)）"
+
+#: ../shortcodes/shortcodes.php:218 ../shortcodes/shortcodes.php:256
+#: ../shortcodes/shortcodes.php:317
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr "特定内容元素风格不同 - 添加class名字并在自定义CSS引用它"
+
+#: ../shortcodes/shortcodes.php:222 ../shortcodes/shortcodes.php:268
+msgid "CSS box"
+msgstr "CSS框"
+
+#: ../shortcodes/shortcodes.php:224 ../shortcodes/shortcodes.php:270
+msgid "Design Options"
+msgstr "设计选项"
+
+#: ../shortcodes/shortcodes.php:232
+msgid "1 column - 1/12"
+msgstr "1 列 - 1/12"
+
+#: ../shortcodes/shortcodes.php:233
+msgid "2 columns - 1/6"
+msgstr "2 列 - 1/6"
+
+#: ../shortcodes/shortcodes.php:234
+msgid "3 columns - 1/4"
+msgstr "3 列 - 1/4"
+
+#: ../shortcodes/shortcodes.php:235
+msgid "4 columns - 1/3"
+msgstr "4 列 - 1/3"
+
+#: ../shortcodes/shortcodes.php:236
+msgid "5 columns - 5/12"
+msgstr "5 列 - 5/12"
+
+#: ../shortcodes/shortcodes.php:237
+msgid "6 columns - 1/2"
+msgstr "6 列 - 1/2"
+
+#: ../shortcodes/shortcodes.php:238
+msgid "7 columns - 7/12"
+msgstr "7 列 - 7/12"
+
+#: ../shortcodes/shortcodes.php:239
+msgid "8 columns - 2/3"
+msgstr "8 列 - 2/3"
+
+#: ../shortcodes/shortcodes.php:240
+msgid "9 columns - 3/4"
+msgstr "9 列 - 3/4"
+
+#: ../shortcodes/shortcodes.php:241
+msgid "10 columns - 5/6"
+msgstr "10 列 - 5/6"
+
+#: ../shortcodes/shortcodes.php:242
+msgid "11 columns - 11/12"
+msgstr "11 列 - 11/12"
+
+#: ../shortcodes/shortcodes.php:243
+msgid "12 columns - 1/1"
+msgstr "12 列 - 1/1"
+
+#: ../shortcodes/shortcodes.php:246
+msgid "Column"
+msgstr "列"
+
+#: ../shortcodes/shortcodes.php:250
+msgid "Place content elements inside the column"
+msgstr "放置内容元素到列"
+
+#: ../shortcodes/shortcodes.php:264
+msgid "Select top margin value for your column"
+msgstr "为列选择上边距值"
+
+#: ../shortcodes/shortcodes.php:277 ../shortcodes/shortcodes.php:285
+msgid "Responsive Options"
+msgstr "自适应选项"
+
+#: ../shortcodes/shortcodes.php:278
+msgid "Select column width."
+msgstr "选择列宽"
+
+#: ../shortcodes/shortcodes.php:283
+msgid "Responsiveness"
+msgstr "自适应"
+
+#: ../shortcodes/shortcodes.php:286
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr "为不同屏幕大小调整列。控制宽度、偏移和可见性设置"
+
+#: ../shortcodes/shortcodes.php:294
+msgid "Widgetised Sidebar"
+msgstr "小工具化侧边栏"
+
+#: ../shortcodes/shortcodes.php:298
+msgid "Structure"
+msgstr "结构"
+
+#: ../shortcodes/shortcodes.php:299
+msgid "WordPress widgetised sidebar"
+msgstr "WordPress小工具化侧边栏"
+
+#: ../shortcodes/shortcodes.php:303
+msgid "Widget title"
+msgstr "小工具标题"
+
+#: ../shortcodes/shortcodes.php:305
+msgid "Enter text used as widget title (Note: located above content element)."
+msgstr "输入文字用于小工具标题（注意：位于内容元素上面）"
+
+#: ../shortcodes/shortcodes.php:311
+msgid "Select widget area to display."
+msgstr "选择小工具区域来显示"
+
+#: ../shortcodes/shortcodes.php:325
+msgid "Select top margin value for your sidebar"
+msgstr "选择侧边栏上边距值"
+
+#: ../shortcodes/shortcodes.php:330
+msgid "Light"
+msgstr "浅"
+
+#: ../shortcodes/shortcodes.php:334
+msgid "Small arrow"
+msgstr "小箭头"
+
+#: ../shortcodes/shortcodes.php:335
+msgid "Address book icon"
+msgstr "通讯录图标"
+
+#: ../shortcodes/shortcodes.php:336
+msgid "Alarm clock icon"
+msgstr "闹钟图标"
+
+#: ../shortcodes/shortcodes.php:337
+msgid "Anchor icon"
+msgstr "锚点图标"
+
+#: ../shortcodes/shortcodes.php:338
+msgid "Application Image icon"
+msgstr "应用图片图标"
+
+#: ../shortcodes/shortcodes.php:339
+msgid "Arrow icon"
+msgstr "箭头图标"
+
+#: ../shortcodes/shortcodes.php:340
+msgid "Asterisk icon"
+msgstr "星号图标"
+
+#: ../shortcodes/shortcodes.php:341
+msgid "Hammer icon"
+msgstr "锤子图标"
+
+#: ../shortcodes/shortcodes.php:342
+msgid "Balloon icon"
+msgstr "气球图标"
+
+#: ../shortcodes/shortcodes.php:343
+msgid "Balloon Buzz icon"
+msgstr "Buzz气球图标"
+
+#: ../shortcodes/shortcodes.php:344
+msgid "Balloon Facebook icon"
+msgstr "Facebook气球图标"
+
+#: ../shortcodes/shortcodes.php:345
+msgid "Balloon Twitter icon"
+msgstr "Twitter图标"
+
+#: ../shortcodes/shortcodes.php:346
+msgid "Battery icon"
+msgstr "电池图标"
+
+#: ../shortcodes/shortcodes.php:347
+msgid "Binocular icon"
+msgstr "望远镜图标"
+
+#: ../shortcodes/shortcodes.php:348
+msgid "Document Excel icon"
+msgstr "Excel文档图标"
+
+#: ../shortcodes/shortcodes.php:349
+msgid "Document Image icon"
+msgstr "图片文件图标"
+
+#: ../shortcodes/shortcodes.php:350
+msgid "Document Music icon"
+msgstr "音乐文档图标"
+
+#: ../shortcodes/shortcodes.php:351
+msgid "Document Office icon"
+msgstr "office文档图标"
+
+#: ../shortcodes/shortcodes.php:352
+msgid "Document PDF icon"
+msgstr "PDF文档图标"
+
+#: ../shortcodes/shortcodes.php:353
+msgid "Document Powerpoint icon"
+msgstr "Powerpoint文档图标"
+
+#: ../shortcodes/shortcodes.php:354
+msgid "Document Word icon"
+msgstr "Word文档图标"
+
+#: ../shortcodes/shortcodes.php:355
+msgid "Bookmark icon"
+msgstr "书签图标"
+
+#: ../shortcodes/shortcodes.php:356
+msgid "Camcorder icon"
+msgstr "摄像机图标"
+
+#: ../shortcodes/shortcodes.php:357
+msgid "Camera icon"
+msgstr "相机图标"
+
+#: ../shortcodes/shortcodes.php:358
+msgid "Chart icon"
+msgstr "图表图标"
+
+#: ../shortcodes/shortcodes.php:359
+msgid "Chart pie icon"
+msgstr "饼状图标"
+
+#: ../shortcodes/shortcodes.php:360
+msgid "Clock icon"
+msgstr "时钟图标"
+
+#: ../shortcodes/shortcodes.php:361
+msgid "Fire icon"
+msgstr "火焰图标"
+
+#: ../shortcodes/shortcodes.php:362
+msgid "Heart icon"
+msgstr "心形图标"
+
+#: ../shortcodes/shortcodes.php:363
+msgid "Mail icon"
+msgstr "邮件图标"
+
+#: ../shortcodes/shortcodes.php:364
+msgid "Play icon"
+msgstr "播放图标"
+
+#: ../shortcodes/shortcodes.php:365
+msgid "Shield icon"
+msgstr "盾牌图标"
+
+#: ../shortcodes/shortcodes.php:366
+msgid "Video icon"
+msgstr "视频图标"
+
+#: ../shortcodes/shortcodes.php:369 ../widgets/widget-home-box.php:195
+msgid "Same window"
+msgstr "相同窗口"
+
+#: ../shortcodes/shortcodes.php:370 ../widgets/widget-home-box.php:196
+msgid "New window"
+msgstr "新窗口"
+
+#: ../shortcodes/shortcodes.php:374
+msgid "Button"
+msgstr "按鈕"
+
+#: ../shortcodes/shortcodes.php:378
+msgid "Eye catching button"
+msgstr "醒目的按钮"
+
+#: ../shortcodes/shortcodes.php:382 ../shortcodes/shortcodes.php:386
+#: ../vc_templates/vc_button.php:15
+msgid "Text on the button"
+msgstr "按钮文字"
+
+#: ../shortcodes/shortcodes.php:387
+msgid "Text on the button."
+msgstr "按钮文字"
+
+#: ../shortcodes/shortcodes.php:391
+msgid "URL (Link)"
+msgstr "URL（链接）"
+
+#: ../shortcodes/shortcodes.php:393
+msgid "Button link."
+msgstr "按钮链接"
+
+#: ../shortcodes/shortcodes.php:397
+msgid "Size"
+msgstr "大小"
+
+#: ../shortcodes/shortcodes.php:400
+msgid "Button size."
+msgstr "按钮大小"
+
+#: ../shortcodes/shortcodes.php:404
+msgid "Target"
+msgstr "打开方式"
+
+#: ../shortcodes/shortcodes.php:426
+msgid "Button icon."
+msgstr "按钮图标"
+
+#: ../shortcodes/shortcodes.php:432 ../widgets/widget-footer-box.php:115
+msgid "Text color"
+msgstr "文字颜色"
+
+#: ../shortcodes/shortcodes.php:440
+msgid "Hover text color"
+msgstr "悬停文字颜色"
+
+#: ../shortcodes/shortcodes.php:446 ../widgets/widget-footer-box.php:119
+#: ../widgets/widget-home-box.php:140
+msgid "Color"
+msgstr "颜色"
+
+#: ../shortcodes/shortcodes.php:449 ../shortcodes/shortcodes.php:670
+msgid "Button color."
+msgstr "按钮颜色。"
+
+#: ../shortcodes/shortcodes.php:461
+msgid "Hover Color"
+msgstr "悬停颜色"
+
+#: ../shortcodes/shortcodes.php:464
+msgid "Button hover color."
+msgstr "按钮悬停颜色"
+
+#: ../shortcodes/shortcodes.php:478
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"如果你想特定元素风格不同。那么使用此字段添加class名字然后在你的CSS文件引用"
+"它。"
+
+#: ../shortcodes/shortcodes.php:556
+msgid "Box header"
+msgstr "框标题"
+
+#: ../shortcodes/shortcodes.php:582
+msgid "Bottom border"
+msgstr "下边框"
+
+#: ../shortcodes/shortcodes.php:589
+msgid "Bottom border animation"
+msgstr "下边框动画"
+
+#: ../shortcodes/shortcodes.php:633
+msgid "Dropcap text"
+msgstr "下沉文字"
+
+#: ../shortcodes/shortcodes.php:647
+msgid ""
+"Please provide unique id for each dropcap on the same page/post if you would "
+"like to have custom content color for each one"
+msgstr "如果你想每个有自定义内容，请在相同页面/文章为每个下沉指定唯一ID"
+
+#: ../shortcodes/shortcodes.php:653
+msgid "Label"
+msgstr "标签"
+
+#: ../shortcodes/shortcodes.php:667
+msgid "Label background color"
+msgstr "标签背景颜色"
+
+#: ../shortcodes/shortcodes.php:676
+msgid "or pick custom label background color"
+msgstr "或选择自定义标签背景颜色"
+
+#: ../shortcodes/shortcodes.php:684
+msgid "Label text color"
+msgstr "标签文本颜色"
+
+#: ../shortcodes/shortcodes.php:695
+msgid ""
+"If you would like to use 'Content text color', you need to fill 'Id' field"
+msgstr "如果你想使用 '内容文字颜色'，你需要填充'Id'字段"
+
+#: ../shortcodes/shortcodes.php:720 ../shortcodes/shortcodes.php:741
+msgid "Show all &rarr;"
+msgstr "显示所有&rarr;"
+
+#: ../shortcodes/shortcodes.php:727
+msgid "Show all button"
+msgstr "显示所有按钮"
+
+#: ../shortcodes/shortcodes.php:773 ../widgets/widget-appointment.php:139
+msgid "Sentence"
+msgstr "句子"
+
+#: ../shortcodes/shortcodes.php:793 ../shortcodes/testimonials.php:100
+msgid "Author"
+msgstr "作者"
+
+#: ../shortcodes/shortcodes.php:799
+msgid "Title animation"
+msgstr "标题动画"
+
+#: ../shortcodes/shortcodes.php:817
+msgid "Title animation duration"
+msgstr "标题动画持续时间"
+
+#: ../shortcodes/shortcodes.php:824
+msgid "Title animation delay"
+msgstr "标题动画延迟"
+
+#: ../shortcodes/shortcodes.php:830
+msgid "Author animation"
+msgstr "作者动画"
+
+#: ../shortcodes/shortcodes.php:848
+msgid "Author animation duration"
+msgstr "作者动画持续时间"
+
+#: ../shortcodes/shortcodes.php:855
+msgid "Author animation delay"
+msgstr "图标动画延迟"
+
+#: ../shortcodes/single-post.php:118
+msgid "Leave a reply &rarr;"
+msgstr "回复&rarr;"
+
+#: ../shortcodes/single-post.php:192
+msgid "Post"
+msgstr "文章"
+
+#: ../shortcodes/single-post.php:224
+msgid "Show post featured image"
+msgstr "显示文章特色图像"
+
+#: ../shortcodes/single-post.php:245
+msgid "Comments"
+msgstr "评论"
+
+#: ../shortcodes/single-post.php:247
+msgid "Enabled"
+msgstr "启用"
+
+#: ../shortcodes/single-post.php:247
+msgid "Disabled"
+msgstr "禁用"
+
+#: ../shortcodes/single-post.php:251
+msgid "Comments form box animation"
+msgstr "评论表格框动画"
+
+#: ../shortcodes/single-post.php:270
+msgid "Comments form box animation duration (ms)"
+msgstr "评论表格框动画持续时间（毫秒）"
+
+#: ../shortcodes/single-post.php:278
+msgid "Comments form box animation delay (ms)"
+msgstr "评论表格框动画延迟（毫秒）"
+
+#: ../shortcodes/single-post.php:326
+msgid "Show comments number in box above post"
+msgstr "在文章上面框里显示评论数"
+
+#: ../shortcodes/single-post.php:334
+msgid "Show comments number label in box above post"
+msgstr "在文章上面框里显示评论数标签"
+
+#: ../shortcodes/small_slider.php:356
+msgid "Small slider"
+msgstr "小幻灯片"
+
+#: ../shortcodes/tabs.php:39
+msgid "Attribute id is required. For example [tab id='tab-1']"
+msgstr "属性ID是必需的。例如[tab id='tab-1']"
+
+#: ../shortcodes/tabs.php:58
+msgid "Attribute id is required. For example [tab_content id='tab-1']"
+msgstr "属性ID是必须的。例如 [tab_content id='tab-1']"
+
+#: ../shortcodes/testimonials.php:65
+msgid ""
+"Please provide unique id for each testimonials carousel on the same page/post"
+msgstr "请在相同页面/文章为每个客户评价轮播指定唯一ID"
+
+#: ../shortcodes/testimonials.php:84
+msgid "Number of testimonials"
+msgstr "客户评价数量"
+
+#: ../shortcodes/testimonials.php:214
+msgid "Testimonials"
+msgstr "客户评价"
+
+#: ../shortcodes/timetable.php:344
+msgid "Click on the department name to get additional info"
+msgstr "点击部门名字获取附加信息"
+
+#: ../shortcodes/timetable.php:455
+msgid "Mode"
+msgstr "模式"
+
+#: ../shortcodes/timetable.php:457
+msgid "24h (military time)"
+msgstr "24小时（军用时间）"
+
+#: ../shortcodes/timetable.php:457
+msgid "12h (am/pm)"
+msgstr "12小时（上午/下午）"
+
+#: ../shortcodes/timetable.php:462
+msgid "Display from hour category"
+msgstr "从营业时间分类显示"
+
+#: ../shortcodes/timetable.php:469
+msgid "Departments page"
+msgstr "部门页面"
+
+#: ../shortcodes/timetable.php:472
+msgid "Please provide departments page id"
+msgstr "请提供部门页ID"
+
+#: ../shortcodes/timetable.php:477
+msgid "Filter style"
+msgstr "筛选样式"
+
+#: ../shortcodes/timetable.php:479
+msgid "dropdown list"
+msgstr "下拉列表"
+
+#: ../shortcodes/timetable.php:479
+msgid "tabs"
+msgstr "选项卡"
+
+#: ../shortcodes/timetable.php:484
+msgid "Filter title"
+msgstr "筛选标题"
+
+#: ../sidebars.php:8
+msgctxt "post type general name"
+msgid "Sidebars"
+msgstr "侧边栏"
+
+#: ../sidebars.php:9
+msgctxt "post type singular name"
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: ../sidebars.php:10
+msgctxt "_sidebar"
+msgid "Add New"
+msgstr "添加"
+
+#: ../sidebars.php:11
+msgid "Add New Sidebar"
+msgstr "添加侧边栏"
+
+#: ../sidebars.php:12
+msgid "Edit Sidebar"
+msgstr "编辑侧边栏"
+
+#: ../sidebars.php:13
+msgid "New Sidebar"
+msgstr "新侧边栏"
+
+#: ../sidebars.php:14 ../sidebars.php:20
+msgid "Sidebars"
+msgstr "侧边栏"
+
+#: ../sidebars.php:15
+msgid "View Sidebar"
+msgstr "查看侧边栏"
+
+#: ../sidebars.php:16
+msgid "Search Sidebars"
+msgstr "搜索侧边栏"
+
+#: ../sidebars.php:17
+msgid "No sidebars found"
+msgstr "没有侧边栏"
+
+#: ../sidebars.php:18
+msgid "No sidebars found in Trash"
+msgstr "回收站没有侧边栏"
+
+#: ../sidebars.php:70
+msgid "Before widget"
+msgstr "小工具之前"
+
+#: ../sidebars.php:78
+msgid "After widget"
+msgstr "小工具之后"
+
+#: ../sidebars.php:86
+msgid "Before title"
+msgstr "标题之前"
+
+#: ../sidebars.php:94
+msgid "After title"
+msgstr "标题之后"
+
+#: ../sidebars.php:102 ../sidebars.php:149
+msgid "Hidden"
+msgstr "隐藏"
+
+#: ../sidebars.php:147
+msgctxt "post type singular name"
+msgid "Sidebar name"
+msgstr "侧边栏名称"
+
+#: ../sidebars.php:148
+msgctxt "post type singular name"
+msgid "Order"
+msgstr "排序"
+
+#: ../template-blog.php:15
+msgid "Daily archives: "
+msgstr "日归档："
+
+#: ../template-blog.php:17
+msgid "Monthly archives: "
+msgstr "月归档："
+
+#: ../template-blog.php:19
+msgid "Yearly archives: "
+msgstr "年归档："
+
+#: ../theme-options.php:746
+msgid "Options saved"
+msgstr "选项已保存"
+
+#: ../theme-options.php:783 ../theme-options.php:851
+msgid "Main"
+msgstr "主要"
+
+#: ../theme-options.php:789 ../theme-options.php:1007
+msgid "Slider"
+msgstr "幻灯片"
+
+#: ../theme-options.php:795 ../theme-options.php:1171
+msgid "Contact Form"
+msgstr "联系表"
+
+#: ../theme-options.php:801 ../theme-options.php:1242
+msgid "Colors"
+msgstr "颜色"
+
+#: ../theme-options.php:807
+msgid "General"
+msgstr "常规"
+
+#: ../theme-options.php:817
+msgid "Buttons"
+msgstr "按钮"
+
+#: ../theme-options.php:822
+msgid "Menu"
+msgstr "菜单"
+
+#: ../theme-options.php:827
+msgid "Forms"
+msgstr "表单"
+
+#: ../theme-options.php:832
+msgid "Miscellaneous"
+msgstr "杂项"
+
+#: ../theme-options.php:845 ../theme-options.php:1916
+msgid "Fonts"
+msgstr "字体"
+
+#: ../theme-options.php:854
+msgid "DUMMY CONTENT IMPORT"
+msgstr "虚拟内容导入"
+
+#: ../theme-options.php:857
+msgid "blue (no animations)"
+msgstr "蓝色（无动画）"
+
+#: ../theme-options.php:859
+msgid "green (no animations)"
+msgstr "绿色（无动画）"
+
+#: ../theme-options.php:861
+msgid "orange (no animations)"
+msgstr "橙色（无动画）"
+
+#: ../theme-options.php:863
+msgid "red (no animations)"
+msgstr "红色（动画）"
+
+#: ../theme-options.php:865
+msgid "turquoise (no animations)"
+msgstr "青绿（无动画）"
+
+#: ../theme-options.php:867
+msgid "violet (no animations)"
+msgstr "紫色（无动画）"
+
+#: ../theme-options.php:869
+msgid "Import dummy content"
+msgstr "导入虚拟内容"
+
+#: ../theme-options.php:879
+msgid "DUMMY SHOP CONTENT IMPORT"
+msgstr "导入虚拟商店内容"
+
+#: ../theme-options.php:880
+msgid "Import shop dummy content"
+msgstr "导入虚拟商店内容"
+
+#: ../theme-options.php:889
+msgid "FAVICON URL"
+msgstr "网站图标URL"
+
+#: ../theme-options.php:892
+msgid "Insert favicon"
+msgstr "插入图标"
+
+#: ../theme-options.php:896
+msgid "LOGO URL"
+msgstr "LOGO网址"
+
+#: ../theme-options.php:899
+msgid "Insert logo"
+msgstr "插入LOGO"
+
+#: ../theme-options.php:903
+msgid "LOGO TEXT"
+msgstr "LOGO文字"
+
+#: ../theme-options.php:909
+msgid "FOOTER TEXT LEFT"
+msgstr "页脚文字左"
+
+#: ../theme-options.php:915
+msgid "FOOTER TEXT RIGHT"
+msgstr "页脚文字右"
+
+#: ../theme-options.php:921
+msgid "HOME PAGE TOP HINT"
+msgstr "首页顶部提示"
+
+#: ../theme-options.php:927
+msgid "STICKY MENU"
+msgstr "粘性菜单"
+
+#: ../theme-options.php:936
+msgid "RESPONSIVE"
+msgstr "自适应"
+
+#: ../theme-options.php:945
+msgid "LAYOUT"
+msgstr "布局"
+
+#: ../theme-options.php:948
+msgid "wide"
+msgstr "全宽"
+
+#: ../theme-options.php:949
+msgid "boxed"
+msgstr "框式"
+
+#: ../theme-options.php:950
+msgid "full width"
+msgstr "全宽"
+
+#: ../theme-options.php:955
+msgid "SHOW LAYOUT PICKER"
+msgstr "显示布局选择器"
+
+#: ../theme-options.php:977
+msgid "enabled"
+msgstr "启用"
+
+#: ../theme-options.php:978
+msgid "disabled"
+msgstr "禁用"
+
+#: ../theme-options.php:983
+msgid "Collapsible mobile submenus"
+msgstr "可折叠移动子菜单"
+
+#: ../theme-options.php:992
+msgid "Google Maps API Key"
+msgstr "谷歌地图API Key"
+
+#: ../theme-options.php:995
+#, php-format
+msgid ""
+"You can generate API Key <a href=\"%s\" target=\"_blank\" title=\"Generate "
+"API Key\">here</a>"
+msgstr ""
+"你可以在<a href=\"%s\" target=\"_blank\" title=\"Generate API Key\">这里</a>"
+"创建API key"
+
+#: ../theme-options.php:999
+msgid "Google Analytics tracking code"
+msgstr "谷歌分析跟踪代码"
+
+#: ../theme-options.php:1010
+msgid "Choose slider id for edit"
+msgstr "为编辑选择幻灯片ID"
+
+#: ../theme-options.php:1019
+msgid "Delete this slider"
+msgstr "删除幻灯片"
+
+#: ../theme-options.php:1024
+msgid "Or type new slider id to create new one"
+msgstr "或输入新幻灯片ID创建"
+
+#: ../theme-options.php:1037
+msgid "SLIDER IMAGE URL"
+msgstr "幻灯片图片网址"
+
+#: ../theme-options.php:1044
+msgid "SLIDER IMAGE TITLE"
+msgstr "幻灯片图片标题"
+
+#: ../theme-options.php:1050
+msgid "SLIDER IMAGE SUBTITLE"
+msgstr "幻灯片图片子标题"
+
+#: ../theme-options.php:1056
+msgid "SLIDER IMAGE LINK"
+msgstr "幻灯片图片链接"
+
+#: ../theme-options.php:1065
+msgid "Add slider image"
+msgstr "添加幻灯片图片"
+
+#: ../theme-options.php:1068
+msgid "AUTOPLAY"
+msgstr "自动播放"
+
+#: ../theme-options.php:1077
+msgid "NAVIGATION"
+msgstr "导航"
+
+#: ../theme-options.php:1097
+msgid "SLIDER HEIGHT (px):"
+msgstr "幻灯片高度（px）："
+
+#: ../theme-options.php:1103
+msgid "SLIDE INTERVAL (ms):"
+msgstr "幻灯片间隔（毫秒）："
+
+#: ../theme-options.php:1109
+msgid "EFFECT:"
+msgstr "效果："
+
+#: ../theme-options.php:1123
+msgid "TRANSITION:"
+msgstr "过渡："
+
+#: ../theme-options.php:1163
+msgid "TRANSITION SPEED (ms):"
+msgstr "过渡速度（毫秒）："
+
+#: ../theme-options.php:1172
+msgid "ADMIN EMAIL CONFIG"
+msgstr "管理邮箱配置"
+
+#: ../theme-options.php:1175
+msgid "NAME"
+msgstr "名字"
+
+#: ../theme-options.php:1181
+msgid "EMAIL"
+msgstr "邮箱"
+
+#: ../theme-options.php:1187
+msgid "ADMIN SMTP CONFIG (OPTIONAL)"
+msgstr "管理SMTP配置（可选）"
+
+#: ../theme-options.php:1190
+msgid "HOST"
+msgstr "主机"
+
+#: ../theme-options.php:1196
+msgid "USERNAME"
+msgstr "用户名"
+
+#: ../theme-options.php:1202
+msgid "PASSWORD"
+msgstr "密码"
+
+#: ../theme-options.php:1208
+msgid "PORT"
+msgstr "端口"
+
+#: ../theme-options.php:1214
+msgid "SMTP SECURE"
+msgstr "SMTP安全"
+
+#: ../theme-options.php:1218
+msgid "ssl"
+msgstr "ssl"
+
+#: ../theme-options.php:1219
+msgid "tls"
+msgstr "tls"
+
+#: ../theme-options.php:1224
+msgid "EMAIL CONFIG"
+msgstr "邮件配置"
+
+#: ../theme-options.php:1227
+msgid "EMAIL SUBJECT"
+msgstr "邮件主题"
+
+#: ../theme-options.php:1233
+msgid "TEMPLATE"
+msgstr "模板"
+
+#: ../theme-options.php:1243
+msgid "COLOR SCHEME"
+msgstr "颜色方案"
+
+#: ../theme-options.php:1246
+msgid "Color scheme"
+msgstr "颜色方案"
+
+#: ../theme-options.php:1249
+msgid "blue (default)"
+msgstr "蓝（默认）"
+
+#: ../theme-options.php:1260
+msgid "GENERAL"
+msgstr "常规"
+
+#: ../theme-options.php:1263
+msgid "Site background color"
+msgstr "网站背景颜色"
+
+#: ../theme-options.php:1270
+msgid "Header background color"
+msgstr "页眉背景颜色"
+
+#: ../theme-options.php:1277
+msgid "Body background color"
+msgstr "主体背景颜色"
+
+#: ../theme-options.php:1284
+msgid "Footer background color"
+msgstr "页脚背景颜色"
+
+#: ../theme-options.php:1291
+msgid "Link color"
+msgstr "链接颜色"
+
+#: ../theme-options.php:1298
+msgid "Link hover color"
+msgstr "链接悬停颜色"
+
+#: ../theme-options.php:1305
+msgid "Footer link color"
+msgstr "页脚链接颜色"
+
+#: ../theme-options.php:1312
+msgid "Footer link hover color"
+msgstr "页脚链接悬停颜色"
+
+#: ../theme-options.php:1321
+msgid "TEXT"
+msgstr "文字"
+
+#: ../theme-options.php:1324
+msgid "Body headers color"
+msgstr "主体标题颜色"
+
+#: ../theme-options.php:1331
+msgid "Body headers border color"
+msgstr "主体标题边框颜色"
+
+#: ../theme-options.php:1335 ../theme-options.php:1364
+#: ../theme-options.php:1515 ../theme-options.php:1523
+#: ../theme-options.php:1564 ../theme-options.php:1572
+#: ../theme-options.php:1627 ../theme-options.php:1712
+#: ../theme-options.php:1720 ../theme-options.php:1784
+msgid "Enter 'none' for no border"
+msgstr "无边框设置输入'none'"
+
+#: ../theme-options.php:1339
+msgid "Body text color"
+msgstr "主体文字颜色"
+
+#: ../theme-options.php:1346
+msgid "Timeago label color"
+msgstr "时间之前标签颜色"
+
+#: ../theme-options.php:1353
+msgid "Footer headers color"
+msgstr "页脚标题颜色"
+
+#: ../theme-options.php:1360
+msgid "Footer headers border color"
+msgstr "页脚标题边框颜色"
+
+#: ../theme-options.php:1368
+msgid "Footer text color"
+msgstr "页脚文本颜色"
+
+#: ../theme-options.php:1375
+msgid "Footer timeago label color"
+msgstr "页脚时间之前标签颜色"
+
+#: ../theme-options.php:1382
+msgid "Sentence color"
+msgstr "句子的颜色"
+
+#: ../theme-options.php:1389
+msgid "Quote color"
+msgstr "引用颜色"
+
+#: ../theme-options.php:1396
+msgid "Logo text color"
+msgstr "LOGO文字颜色"
+
+#: ../theme-options.php:1405
+msgid "BUTTONS"
+msgstr "按钮"
+
+#: ../theme-options.php:1408
+msgid "Body button text color"
+msgstr "主体按钮文字颜色"
+
+#: ../theme-options.php:1415
+msgid "Body button text hover color"
+msgstr "主体按钮文字悬停颜色"
+
+#: ../theme-options.php:1422
+msgid "Body button border color"
+msgstr "主体按钮边框颜色"
+
+#: ../theme-options.php:1429
+msgid "Body button border hover color"
+msgstr "主体按钮边框悬停颜色"
+
+#: ../theme-options.php:1436
+msgid "Footer button text color"
+msgstr "页脚按钮文字颜色"
+
+#: ../theme-options.php:1443
+msgid "Footer button text hover color"
+msgstr "页脚按钮文字悬停颜色"
+
+#: ../theme-options.php:1450
+msgid "Footer button border color"
+msgstr "页脚按钮边框颜色"
+
+#: ../theme-options.php:1457
+msgid "Footer button border hover color"
+msgstr "页脚按钮边框悬停颜色"
+
+#: ../theme-options.php:1466
+msgid "MENU"
+msgstr "菜单"
+
+#: ../theme-options.php:1469
+msgid "Position text color"
+msgstr "位置文字颜色"
+
+#: ../theme-options.php:1476
+msgid "Position hover text color"
+msgstr "按钮悬停文字颜色"
+
+#: ../theme-options.php:1483
+msgid "Position background color"
+msgstr "位置背景颜色"
+
+#: ../theme-options.php:1490
+msgid "Position hover background color"
+msgstr "位置悬停背景颜色"
+
+#: ../theme-options.php:1497
+msgid "Submenu position text color"
+msgstr "子菜单位置文字颜色"
+
+#: ../theme-options.php:1504
+msgid "Submenu position hover text color"
+msgstr "子菜单位置悬停文字颜色"
+
+#: ../theme-options.php:1511
+msgid "Submenu position border color"
+msgstr "子菜单位置边框颜色"
+
+#: ../theme-options.php:1519
+msgid "Submenu position hover border color"
+msgstr "子菜单位置悬停边框颜色"
+
+#: ../theme-options.php:1527
+msgid "Dropdown menu background color"
+msgstr "下拉菜单背景颜色"
+
+#: ../theme-options.php:1534
+msgid "Dropdown menu hover background color"
+msgstr "下拉菜单悬停背景颜色"
+
+#: ../theme-options.php:1541
+msgid "Dropdown menu border color"
+msgstr "下拉菜单边框颜色"
+
+#: ../theme-options.php:1550
+msgid "FORMS"
+msgstr "表单"
+
+#: ../theme-options.php:1553
+msgid "Form field text color"
+msgstr "表单字段文字颜色"
+
+#: ../theme-options.php:1560
+msgid "Form field top border color"
+msgstr "表单字段上边框颜色"
+
+#: ../theme-options.php:1568
+msgid "Form field active top border color"
+msgstr "表单字段活动上边框颜色"
+
+#: ../theme-options.php:1576
+msgid "Form button background color"
+msgstr "表单按钮背景颜色"
+
+#: ../theme-options.php:1583
+msgid "Form button hover background color"
+msgstr "表单按钮悬停背景颜色"
+
+#: ../theme-options.php:1590
+msgid "Form button text color"
+msgstr "表单按钮文字颜色"
+
+#: ../theme-options.php:1597
+msgid "Form button hover text color"
+msgstr "表单按钮悬停文本颜色"
+
+#: ../theme-options.php:1606
+msgid "MISCELLANEOUS"
+msgstr "杂项"
+
+#: ../theme-options.php:1609
+msgid "Top hint background color"
+msgstr "顶部提示背景颜色"
+
+#: ../theme-options.php:1616
+msgid "Top hint text color"
+msgstr "顶部提示文字颜色"
+
+#: ../theme-options.php:1623
+msgid "Page top border color"
+msgstr "页面上边框颜色"
+
+#: ../theme-options.php:1631
+msgid "Divider background color"
+msgstr "分隔背景颜色"
+
+#: ../theme-options.php:1638
+msgid "Date box background color"
+msgstr "日期框背景颜色"
+
+#: ../theme-options.php:1645
+msgid "Date box text color"
+msgstr "日期框文字颜色"
+
+#: ../theme-options.php:1652
+msgid "Date box comments number background color"
+msgstr "日期框评论数背景颜色"
+
+#: ../theme-options.php:1659
+msgid "Date box comments number text color"
+msgstr "日期框评论数文字颜色"
+
+#: ../theme-options.php:1666
+msgid "Gallery box background color"
+msgstr "相册框背景颜色"
+
+#: ../theme-options.php:1673
+msgid "Gallery box hover background color"
+msgstr "相册框悬停背景颜色"
+
+#: ../theme-options.php:1680
+msgid "Gallery box text first line color"
+msgstr "相册框文字第一行颜色"
+
+#: ../theme-options.php:1687
+msgid "Gallery box text second line color"
+msgstr "相册框文字第二行颜色"
+
+#: ../theme-options.php:1694
+msgid "Gallery box hover text first line color"
+msgstr "相册框悬停文字第一行颜色"
+
+#: ../theme-options.php:1701
+msgid "Gallery box hover text second line color"
+msgstr "相册框悬停文字第二行颜色"
+
+#: ../theme-options.php:1708
+msgid "Gallery box border color"
+msgstr "相册框边框颜色"
+
+#: ../theme-options.php:1716
+msgid "Gallery box hover border color"
+msgstr "相册框悬停边框颜色"
+
+#: ../theme-options.php:1766
+msgid "Timetable tip box background color"
+msgstr "时间表提示框背景颜色"
+
+#: ../theme-options.php:1773
+msgid "Accordion tab color"
+msgstr "手风琴选项卡颜色"
+
+#: ../theme-options.php:1780
+msgid "Copyright area border color"
+msgstr "版权区域边框颜色"
+
+#: ../theme-options.php:1855
+msgid "Header layout type"
+msgstr "页眉布局类型"
+
+#: ../theme-options.php:1866
+msgid "Header top sidebar"
+msgstr "页眉顶部侧边栏"
+
+#: ../theme-options.php:1898
+msgid "Header top right sidebar"
+msgstr "页眉顶部右侧边栏"
+
+#: ../theme-options.php:1919
+msgid "Header font"
+msgstr "标题字体"
+
+#: ../theme-options.php:1922 ../theme-options.php:1968
+msgid "Default (PT Sans)"
+msgstr "默认（(PT Sans）"
+
+#: ../theme-options.php:1950
+msgid "Header font subset"
+msgstr "标题字体集"
+
+#: ../theme-options.php:1965
+msgid "Subheader font"
+msgstr "子标题字体"
+
+#: ../theme-options.php:1996
+msgid "Subheader font subset"
+msgstr "副标题字体集"
+
+#: ../vc_templates/vc_accordion_tab.php:6
+#: ../vc_templates/vc_nested_accordion_tab.php:6
+msgid "Section"
+msgstr "部位"
+
+#: ../vc_templates/vc_accordion_tab.php:20
+#: ../vc_templates/vc_nested_accordion_tab.php:20
+#: ../vc_templates/vc_nested_tab.php:16 ../vc_templates/vc_tab.php:16
+msgid "Empty section. Edit page to add content here."
+msgstr "空白栏目。编辑页面添加内容到这里。"
+
+#: ../widgets/widget-appointment.php:12
+msgid "Appointment"
+msgstr "预约"
+
+#: ../widgets/widget-appointment.php:132
+#: ../widgets/widget-contact-details.php:197
+#: ../widgets/widget-departments.php:172
+#: ../widgets/widget-scrolling-most-commented.php:101
+#: ../widgets/widget-scrolling-most-viewed.php:100
+#: ../widgets/widget-scrolling-recent-posts.php:93
+#: ../widgets/widget-twitter.php:112
+msgid "Title border animation"
+msgstr "标题框动画"
+
+#: ../widgets/widget-appointment.php:162
+#: ../widgets/widget-contact-details.php:255
+msgid "color"
+msgstr "颜色"
+
+#: ../widgets/widget-cart-icon.php:12
+msgid "Woocommerce Shop Cart Icon"
+msgstr "Woocommerce商店购物车图标"
+
+#: ../widgets/widget-cart-icon.php:49
+msgid "Icon style"
+msgstr "图标风格"
+
+#: ../widgets/widget-cart-icon.php:78
+msgid "Show cart items number"
+msgstr "显示购物车项目数"
+
+#: ../widgets/widget-contact-details.php:12
+msgid "Contact Details Box"
+msgstr "联系方式框"
+
+#: ../widgets/widget-contact-details.php:208
+msgid "address_line_1"
+msgstr "地址第1行"
+
+#: ../widgets/widget-contact-details.php:212
+msgid "address_line_2"
+msgstr "地址第2行"
+
+#: ../widgets/widget-contact-details.php:216
+msgid "address_line_3"
+msgstr "地址第3行"
+
+#: ../widgets/widget-contact-details.php:220
+msgid "address_line_4"
+msgstr "地址第4行"
+
+#: ../widgets/widget-contact-details.php:224
+msgid "contact_line_1"
+msgstr "联系第1行"
+
+#: ../widgets/widget-contact-details.php:228
+msgid "contact_line_2"
+msgstr "联系第2行"
+
+#: ../widgets/widget-contact-details.php:232
+msgid "contact_line_3"
+msgstr "联系第3行"
+
+#: ../widgets/widget-contact-details.php:236
+msgid "contact_line_4"
+msgstr "联系第4行"
+
+#: ../widgets/widget-departments.php:13
+msgid "Departments Accordion"
+msgstr "部门手风琴"
+
+#: ../widgets/widget-departments.php:181
+msgid "ASC"
+msgstr "倒序"
+
+#: ../widgets/widget-departments.php:182
+msgid "DESC"
+msgstr "正序"
+
+#: ../widgets/widget-departments.php:200
+msgid "Departments Page"
+msgstr "部门页面"
+
+#: ../widgets/widget-departments.php:223
+msgid "Timetable Page"
+msgstr "时间表页面"
+
+#: ../widgets/widget-departments.php:236
+msgid "Active tab number"
+msgstr "激活选项卡数量"
+
+#: ../widgets/widget-departments.php:240
+msgid "Tab color"
+msgstr "选项卡颜色"
+
+#: ../widgets/widget-departments.php:247 ../widgets/widget-departments.php:259
+#: ../widgets/widget-departments.php:271 ../widgets/widget-footer-box.php:146
+#: ../widgets/widget-home-box.php:167 ../widgets/widget-home-box.php:238
+#: ../widgets/widget-home-box.php:272
+msgid "or pick custom one: "
+msgstr "或选择自定义："
+
+#: ../widgets/widget-departments.php:264
+msgid "Button hover color"
+msgstr "按钮悬停颜色"
+
+#: ../widgets/widget-departments.php:306 ../widgets/widget-home-box.php:205
+msgid "Button hover text color"
+msgstr "按钮悬停文字颜色"
+
+#: ../widgets/widget-footer-box.php:13
+msgid "Footer Box"
+msgstr "页脚框"
+
+#: ../widgets/widget-footer-box.php:99 ../widgets/widget-home-box.php:135
+msgid "Title color"
+msgstr "标题颜色"
+
+#: ../widgets/widget-footer-box.php:103
+msgid "More link url"
+msgstr "更多链接网址"
+
+#: ../widgets/widget-footer-box.php:107
+msgid "More link label"
+msgstr "更多链接标签"
+
+#: ../widgets/widget-footer-box.php:151 ../widgets/widget-home-box.php:277
+msgid "Box animation"
+msgstr "框动画"
+
+#: ../widgets/widget-footer-box.php:166 ../widgets/widget-home-box.php:292
+msgid "Box animation duration (in ms)"
+msgstr "框动画持续时间（毫秒）"
+
+#: ../widgets/widget-footer-box.php:170 ../widgets/widget-home-box.php:296
+msgid "Box animation delay (in ms)"
+msgstr "框动画延迟（毫秒）"
+
+#: ../widgets/widget-home-box.php:13
+msgid "Home Box"
+msgstr "首页框"
+
+#: ../widgets/widget-home-box.php:172
+msgid "Custom width (in px)"
+msgstr "自定义宽度（px）"
+
+#: ../widgets/widget-home-box.php:193
+msgid "Button target"
+msgstr "按钮目标"
+
+#: ../widgets/widget-home-box.php:210
+msgid "Button bg color"
+msgstr "按钮背景颜色"
+
+#: ../widgets/widget-home-box.php:212 ../widgets/widget-home-box.php:246
+msgid "transparent"
+msgstr "透明"
+
+#: ../widgets/widget-home-box.php:243
+msgid "Button hover bg color"
+msgstr "按钮悬停背景颜色"
+
+#: ../widgets/widget-scrolling-most-commented.php:12
+msgid "Scrolling Most Commented Posts"
+msgstr "滚动评论最多的文章"
+
+#: ../widgets/widget-scrolling-most-commented.php:108
+#: ../widgets/widget-scrolling-most-viewed.php:107
+#: ../widgets/widget-scrolling-recent-posts.php:100
+#: ../widgets/widget-twitter.php:123
+msgid "Count"
+msgstr "计数"
+
+#: ../widgets/widget-scrolling-most-viewed.php:12
+msgid "Scrolling Most Viewed Posts"
+msgstr "滚动最多查看文章"
+
+#: ../widgets/widget-scrolling-recent-posts.php:12
+msgid "Scrolling Recent Posts"
+msgstr "滚动最新文章"
+
+#: ../widgets/widget-twitter.php:13
+msgid "Twitter Feed"
+msgstr "Twitter订阅"
+
+#: ../widgets/widget-twitter.php:68
+msgid "Please check your config under Appearance->Widgets->Twitter Feed!"
+msgstr "请检查 外观 -> 小工具 ->Twitter订阅 下的配置"
+
+#: ../widgets/widget-twitter.php:119 ../woocommerce/myaccount/form-login.php:40
+#: ../woocommerce/myaccount/form-login.php:59
+msgid "Login"
+msgstr "登录"
+
+#: ../widgets/widget-twitter.php:127
+msgid "Consumer key"
+msgstr "消费者密钥"
+
+#: ../widgets/widget-twitter.php:131
+msgid "Consumer secret"
+msgstr "消费者秘密"
+
+#: ../widgets/widget-twitter.php:135
+msgid "Access token"
+msgstr "访问标记"
+
+#: ../widgets/widget-twitter.php:139
+msgid "Access token secret"
+msgstr "访问标记秘密"
+
+#: ../woocommerce/cart/cart-empty.php:23
+msgid "Your cart is currently empty."
+msgstr "您的购物车目前是空的"
+
+#: ../woocommerce/cart/cart-empty.php:27
+msgid "Return To Shop"
+msgstr "返回商店"
+
+#: ../woocommerce/cart/cart-shipping.php:47
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr "一旦您提供您的地址将计算运费。"
+
+#: ../woocommerce/cart/cart-shipping.php:49
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr "没有配送方式可用。请再次检查您的地址，如果您需要任何帮助与我们联系。"
+
+#: ../woocommerce/cart/cart-totals.php:20
+msgid "Cart Totals"
+msgstr "购物车总计"
+
+#: ../woocommerce/cart/cart-totals.php:26
+msgid "Subtotal"
+msgstr "小计"
+
+#: ../woocommerce/cart/cart-totals.php:63 ../woocommerce/cart/cart.php:34
+#: ../woocommerce/myaccount/my-orders.php:28
+#: ../woocommerce/order/order-details.php:33
+msgid "Total"
+msgstr "总计"
+
+#: ../woocommerce/cart/cart-totals.php:73
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr "（税估计为%s）"
+
+#: ../woocommerce/cart/cart-totals.php:76
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr "注意：运费和税费估计为%s，结账时将更新您的帐单"
+
+#: ../woocommerce/cart/cart.php:30
+msgid "Preview"
+msgstr "预览"
+
+#: ../woocommerce/cart/cart.php:31 ../woocommerce/order/order-details.php:32
+msgid "Product"
+msgstr "产品"
+
+#: ../woocommerce/cart/cart.php:32
+msgid "Price"
+msgstr "价格"
+
+#: ../woocommerce/cart/cart.php:33
+msgid "Quantity"
+msgstr "数量"
+
+#: ../woocommerce/cart/cart.php:51
+msgid "Remove this item"
+msgstr "删除此项目"
+
+#: ../woocommerce/cart/cart.php:126
+msgid "Coupon"
+msgstr "优惠券"
+
+#: ../woocommerce/cart/cart.php:126
+msgid "Coupon code"
+msgstr "优惠券代码"
+
+#: ../woocommerce/cart/cart.php:126
+msgid "Apply Coupon"
+msgstr "使用优惠券"
+
+#: ../woocommerce/cart/cart.php:132
+msgid "Update Cart"
+msgstr "更新购物车"
+
+#: ../woocommerce/cart/cart.php:157
+#: ../woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr "计算运费"
+
+#: ../woocommerce/cart/cross-sells.php:41
+msgid "You may be interested in&hellip;"
+msgstr "您可能对此有兴趣&hellip;"
+
+#: ../woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr "选择一个地区&hellip;"
+
+#: ../woocommerce/cart/shipping-calculator.php:47
+#: ../woocommerce/cart/shipping-calculator.php:53
+#: ../woocommerce/cart/shipping-calculator.php:65
+msgid "State / county"
+msgstr "市/县"
+
+#: ../woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr "选择一个地区&hellip;"
+
+#: ../woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr "城市"
+
+#: ../woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / Zip"
+msgstr "邮编"
+
+#: ../woocommerce/cart/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr "更新总计"
+
+#: ../woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr "帐单和运送"
+
+#: ../woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr "账单明细"
+
+#: ../woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr "创建一个帐户？"
+
+#: ../woocommerce/checkout/form-billing.php:53
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr "输入以下信息，创建一个帐户。如果你是老顾客，请在页面顶部登录。"
+
+#: ../woocommerce/checkout/form-checkout.php:23
+msgid "You must be logged in to checkout."
+msgstr "您必须先登录才能结账。"
+
+#: ../woocommerce/checkout/form-checkout.php:48
+msgid "Your order"
+msgstr "你的订单"
+
+#: ../woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr "运送到不同的地址？"
+
+#: ../woocommerce/checkout/form-shipping.php:58
+msgid "Additional Information"
+msgstr "附加信息"
+
+#: ../woocommerce/checkout/thankyou.php:21
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr "很遗憾，您的订单无法处理，银行/商家已拒绝您的交易。"
+
+#: ../woocommerce/checkout/thankyou.php:25
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "请再次尝试购买，或去您的帐户页面。"
+
+#: ../woocommerce/checkout/thankyou.php:27
+msgid "Please attempt your purchase again."
+msgstr "请尝试再次购买。"
+
+#: ../woocommerce/checkout/thankyou.php:31
+#: ../woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr "支付"
+
+#: ../woocommerce/checkout/thankyou.php:33
+msgid "My Account"
+msgstr "我的账户"
+
+#: ../woocommerce/checkout/thankyou.php:38
+msgid "Order Received"
+msgstr "已收到订单"
+
+#: ../woocommerce/checkout/thankyou.php:39
+#: ../woocommerce/checkout/thankyou.php:70
+msgid "Thank you. Your order has been received."
+msgstr "谢谢，我们已经收到您的订单。"
+
+#: ../woocommerce/checkout/thankyou.php:43
+msgid "Order Number:"
+msgstr "订单号："
+
+#: ../woocommerce/checkout/thankyou.php:47
+msgid "Date:"
+msgstr "日期："
+
+#: ../woocommerce/checkout/thankyou.php:51
+msgid "Total:"
+msgstr "总计："
+
+#: ../woocommerce/checkout/thankyou.php:56
+msgid "Payment Method:"
+msgstr "支付方式："
+
+#: ../woocommerce/myaccount/form-edit-account.php:30
+msgid "Account Details"
+msgstr "账户详情"
+
+#: ../woocommerce/myaccount/form-edit-account.php:32
+msgid "First name"
+msgstr "名"
+
+#: ../woocommerce/myaccount/form-edit-account.php:36
+msgid "Last name"
+msgstr "姓"
+
+#: ../woocommerce/myaccount/form-edit-account.php:42
+#: ../woocommerce/myaccount/form-login.php:94
+msgid "Email address"
+msgstr "邮箱地址"
+
+#: ../woocommerce/myaccount/form-edit-account.php:47
+msgid "Password Change"
+msgstr "更改密码"
+
+#: ../woocommerce/myaccount/form-edit-account.php:50
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr "当前密码（留空取消更改）"
+
+#: ../woocommerce/myaccount/form-edit-account.php:54
+msgid "New Password (leave blank to leave unchanged)"
+msgstr "新密码（留空取消更改）"
+
+#: ../woocommerce/myaccount/form-edit-account.php:58
+msgid "Confirm New Password"
+msgstr "确认新密码"
+
+#: ../woocommerce/myaccount/form-edit-account.php:68
+msgid "Save changes"
+msgstr "保存更改"
+
+#: ../woocommerce/myaccount/form-edit-address.php:23
+#: ../woocommerce/myaccount/my-address.php:28
+#: ../woocommerce/myaccount/my-address.php:34
+#: ../woocommerce/order/order-details-customer.php:49
+msgid "Billing Address"
+msgstr "账单地址"
+
+#: ../woocommerce/myaccount/form-edit-address.php:23
+#: ../woocommerce/myaccount/my-address.php:29
+#: ../woocommerce/order/order-details-customer.php:60
+msgid "Shipping Address"
+msgstr "送货地址"
+
+#: ../woocommerce/myaccount/form-edit-address.php:46
+msgid "Save Address"
+msgstr "保存地址"
+
+#: ../woocommerce/myaccount/form-login.php:47
+msgid "Username or email address"
+msgstr "用户名或邮箱地址"
+
+#: ../woocommerce/myaccount/form-login.php:51
+#: ../woocommerce/myaccount/form-login.php:101
+msgid "Password"
+msgstr "密码"
+
+#: ../woocommerce/myaccount/form-login.php:61
+msgid "Remember me"
+msgstr "记住账号"
+
+#: ../woocommerce/myaccount/form-login.php:65
+msgid "Lost your password?"
+msgstr "忘记密码？"
+
+#: ../woocommerce/myaccount/form-login.php:78
+#: ../woocommerce/myaccount/form-login.php:115
+msgid "Register"
+msgstr "注册"
+
+#: ../woocommerce/myaccount/form-login.php:87
+msgid "Username"
+msgstr "用户名"
+
+#: ../woocommerce/myaccount/form-login.php:108
+msgid "Anti-spam"
+msgstr "反垃圾"
+
+#: ../woocommerce/myaccount/form-lost-password.php:32
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+"忘记密码了？请输入您的用户名或者电子邮件地址，我们将密码重置邮件发送到您的邮"
+"箱。"
+
+#: ../woocommerce/myaccount/form-lost-password.php:35
+msgid "Username or email"
+msgstr "用户名或邮箱"
+
+#: ../woocommerce/myaccount/form-lost-password.php:45
+msgid "Reset Password"
+msgstr "重置密码"
+
+#: ../woocommerce/myaccount/my-address.php:26
+msgid "My Addresses"
+msgstr "我的地址"
+
+#: ../woocommerce/myaccount/my-address.php:32
+msgid "My Address"
+msgstr "我的地址"
+
+#: ../woocommerce/myaccount/my-address.php:44
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "默认情况下，下面的地址将在结账页面使用。"
+
+#: ../woocommerce/myaccount/my-address.php:54
+msgid "Edit"
+msgstr "编辑"
+
+#: ../woocommerce/myaccount/my-address.php:73
+msgid "You have not set up this type of address yet."
+msgstr "您还没有设立这种类型的地址。"
+
+#: ../woocommerce/myaccount/my-orders.php:42
+msgid "Recent Orders"
+msgstr "最近订单"
+
+#: ../woocommerce/myaccount/my-orders.php:67
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: ../woocommerce/myaccount/my-orders.php:88
+msgid "View"
+msgstr "查看"
+
+#: ../woocommerce/order/order-details-customer.php:14
+msgid "Customer Details"
+msgstr "客户详情"
+
+#: ../woocommerce/order/order-details-customer.php:19
+msgid "Note:"
+msgstr "说明："
+
+#: ../woocommerce/order/order-details-customer.php:26
+msgid "Email:"
+msgstr "邮箱："
+
+#: ../woocommerce/order/order-details-customer.php:33
+msgid "Telephone:"
+msgstr "电话："
+
+#: ../woocommerce/order/order-details-customer.php:52
+#: ../woocommerce/order/order-details-customer.php:63
+msgid "N/A"
+msgstr "不可用"
+
+#: ../woocommerce/order/order-details.php:28
+msgid "Order Details"
+msgstr "订单详情"
+
+#: ../woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr "评价"
+
+#: ../woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr "目前没有任何评价"
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr "添加点评"
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr "发布第一个评价"
+
+#: ../woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "回复 %s"
+
+#: ../woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr "名字"
+
+#: ../woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr "邮箱"
+
+#: ../woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr "您的评价"
+
+#: ../woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr "评分&hellip;"
+
+#: ../woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr "完美"
+
+#: ../woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr "很好"
+
+#: ../woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr "普通"
+
+#: ../woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr "较差"
+
+#: ../woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr "很差"
+
+#: ../woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr "您的评价"
+
+#: ../woocommerce/single-product-reviews.php:95
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "仅购买过的用户登录后才能发表评论。"
+
+#: ../woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr "相关产品"
+
+#: ../woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr "您可能也喜欢&hellip;"
+
+#~ msgid "Something went wrong."
+#~ msgstr "出了错。"
+
+#~ msgid "Return to the dashboard"
+#~ msgstr "返回仪表盘"
+
+#~ msgid "Private Repository"
+#~ msgstr "私人资源库"
+
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\">Return to the "
+#~ "Dashboard</a>"
+#~ msgstr "没有插件要安装或激活。<a href=\"%1$s\">返回仪表盘</a>"
+
+#~ msgid "Install package not available."
+#~ msgstr "安装包不可用"
+
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr "正在从 <span class=\"code\">%s</span> 下载安装包&#8230;"
+
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "正在解压缩安装包&#8230;"
+
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "正在安装插件&#8230;"
+
+#~ msgid "Plugin install failed."
+#~ msgstr "插件安装失败"
+
+#~ msgid "Plugin installed successfully."
+#~ msgstr "插件安装成功"
+
+#~ msgid "Enter a new password below."
+#~ msgstr "在下面输入新密码。"
+
+#~ msgid "New password"
+#~ msgstr "新密码"
+
+#~ msgid "Re-enter new password"
+#~ msgstr "重新输入新密码"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid ""
+#~ "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+#~ msgstr "你好，<strong>%1$s</strong> (没有%1$s? <a href=\"%2$s\">登录</a>)"
+
+#~ msgid ""
+#~ "From your account dashboard you can view your recent orders, manage your "
+#~ "shipping and billing addresses and <a href=\"%s\">edit your password and "
+#~ "account details</a>."
+#~ msgstr ""
+#~ "你可以从你的帐户仪表盘查看你的最新订单，管理您的运输和帐单地址和<a href="
+#~ "\"%s\">编辑您的密码和帐户详情</a>."
+
+#~ msgid ""
+#~ "Order #<mark class=\"order-number\">%s</mark> was placed on <mark class="
+#~ "\"order-date\">%s</mark> and is currently <mark class=\"order-status\">"
+#~ "%s</mark>."
+#~ msgstr ""
+#~ "订单<mark class=\"order-number\">%s</mark>已放置到<mark class=\"order-date"
+#~ "\">%s</mark>且当前<mark class=\"order-status\">%s</mark>."
+
+#~ msgid "Order Updates"
+#~ msgstr "订单更新"
+
+#~ msgid "l jS \\o\\f F Y, h:ia"
+#~ msgstr "l jS \\o\\f m y, h:ia"
+
+#~ msgid "Rated %d out of 5"
+#~ msgstr "评分%d，共5分"
+
+#~ msgid "out of 5"
+#~ msgstr "共5分"
+
+#~ msgid "Your comment is awaiting approval"
+#~ msgstr "您的评论正在等待审核"
+
+#~ msgid "verified owner"
+#~ msgstr "验证所有者"
+
+#~ msgid "Postion text color"
+#~ msgstr "位置文字颜色"
+
+#~ msgid "Postion hover text color"
+#~ msgstr "位置悬停文字颜色"
+
+#~ msgid "Postion background color"
+#~ msgstr "位置背景颜色"
+
+#~ msgid "Postion hover background color"
+#~ msgstr "子菜单悬停背景颜色"
+
+#~ msgid "Submenu postion text color"
+#~ msgstr "子菜单位置文字颜色"
+
+#~ msgid "Submenu postion hover text color"
+#~ msgstr "子菜单位置悬停文字颜色"
+
+#~ msgid "Submenu postion border color"
+#~ msgstr "子菜单位置边框颜色"
+
+#~ msgid "Submenu postion hover border color"
+#~ msgstr "子菜单位置悬停边框颜色"
+
+#~ msgid "Shipping #%d"
+#~ msgstr "运送到#%d"
+
+#~ msgid "Shipping and Handling"
+#~ msgstr "运送和操作"
+
+#~ msgid ""
+#~ "Please use the shipping calculator to see available shipping methods."
+#~ msgstr "请填写您的详细信息，查看可用的运输方式。"
+
+#~ msgid ""
+#~ "Please continue to the checkout and enter your full address to see if "
+#~ "there are any available shipping methods."
+#~ msgstr "请继续结账，并输入您的详细地址，看看是否有任何可用的运输方式。"
+
+#~ msgid "Please fill in your details to see available shipping methods."
+#~ msgstr "请填写您的详细信息，查看可用的运输方式。"
+
+#~ msgid ""
+#~ "There don&lsquo;t seem to be available shipping methods. Please double "
+#~ "check your address, or contact us if you need any help."
+#~ msgstr ""
+#~ "没有可选择的配送方式，请检查您的收货地址是否正确，或者联系我们以获取帮助。"
+
+#~ msgid "Shipping"
+#~ msgstr "运费"
+
+#~ msgid "Order Number"
+#~ msgstr "订单号"
+
+#~ msgid "Department"
+#~ msgstr "部门"
+
+#~ msgid "Add New"
+#~ msgstr "添加"
+
+#~ msgid "Doctor"
+#~ msgstr "医生"
+
+#~ msgid "Feature"
+#~ msgstr "精选"
+
+#~ msgid "Gallery Item"
+#~ msgstr "相册项目"
+
+#~ msgid "Day name"
+#~ msgstr "天名字"
+
+#~ msgid "Sidebar name"
+#~ msgstr "侧边栏名字"
+
+#~ msgid "The following plugin was activated successfully: %s."
+#~ msgstr "以下插件激活成功: %s."
+
+#~ msgid "External Link"
+#~ msgstr "外部链接"
+
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr ""
+#~ "没有插件要安装或激活. <a href=\"%1$s\" title=\"返回仪表盘\">返回仪表盘</a>"
+
+#~ msgid "Show Details"
+#~ msgstr "显示详情"
+
+#~ msgid "Hide Details"
+#~ msgstr "隐藏详情"
+
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s 安装成功。"
+
+#~ msgid "Please provide unique id for each map on the same page/post"
+#~ msgstr "请在相同页面/文章为每个地图指定唯一ID"

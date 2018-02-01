@@ -1,0 +1,45 @@
+ee http://help.github.com/ignore-files/ for more about ignoring files.
+
+/wp-content/cache
+/wp-content/upgrade
+/wp-content/media
+/wp-content/uploads
+wp-config.php
+
+
+
+
+# compiled output
+/dist
+/tmp
+/out
+
+# dependencies
+/node_modules
+/bower_components
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+*.launch
+.settings/
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage/*
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+#System Files
+.DS_Store
+Thumbs.db
+/*.zip
+
