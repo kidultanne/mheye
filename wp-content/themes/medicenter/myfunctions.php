@@ -100,5 +100,33 @@ add_filter ('pre_site_transient_update_plugins', '__return_null');
 remove_action ('load-update-core.php', 'wp_update_themes');
 add_filter ('pre_site_transient_update_themes', '__return_null');
 
+// 增加post_type
+function my_custom_json() {
+	$labels = array(
+	  'name'               => _x( 'json', 'post type 名称' ),
+	  'singular_name'      => _x( 'json', 'post type 单个 item 时的名称，因为英文有复数' ),
+	  'add_new'            => _x( '新建电影', '添加新内容的链接名称' ),
+	  'add_new_item'       => __( '新建一个电影' ),
+	  'edit_item'          => __( '编辑电影' ),
+	  'new_item'           => __( '新电影' ),
+	  'all_items'          => __( '所有电影' ),
+	  'view_item'          => __( '查看电影' ),
+	  'search_items'       => __( '搜索电影' ),
+	  'not_found'          => __( '没有找到有关电影' ),
+	  'not_found_in_trash' => __( '回收站里面没有相关电影' ),
+	  'parent_item_colon'  => '',
+	  'menu_name'          => 'json'
+	);
+	$args = array(
+	  'labels'        => $labels,
+	  'description'   => '我们网站的json',
+	  'public'        => true,
+	  'menu_position' => 5,
+	  'supports'      => array( 'title', 'editor', 'thumbnail', 'excerpt', 'comments' ),
+	  'has_archive'   => true
+	);
+	register_post_type( 'json', $args );
+  }
+  add_action( 'init', 'my_custom_json' );
  
 ?>
