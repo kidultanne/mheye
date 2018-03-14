@@ -3,7 +3,7 @@
 17-07-03 splited from myfunctions.php by Anne
 */
 //禁止前台编辑
-vc_disable_frontend();
+//vc_disable_frontend();
                                                                                                                                                                                                                                                                                                 
 //闭合标签 带 i标签的 有 icon   id控制图标的样式,实际是类名 PC端选h2 
 function custom_box_iheader($atts,$content=null)
