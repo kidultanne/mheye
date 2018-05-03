@@ -299,11 +299,11 @@ function theme_after_setup_theme()
 	
 	//register blog post thumbnail & portfolio thumbnail
 	add_theme_support("post-thumbnails");
-	//add_image_size("blog-post-thumb", 540, 280, true);
-	//add_image_size($themename . "-gallery-image", 480, 300, true);
-	//add_image_size($themename . "-gallery-thumb-type-1", 310, 200, true);
-	//add_image_size($themename . "-gallery-thumb-type-2", 225, 150, true);
-	//add_image_size($themename . "-small-thumb", 96, 96, true);
+	add_image_size("blog-post-thumb", 540, 280, true);
+	add_image_size($themename . "-gallery-image", 480, 300, true);
+	add_image_size($themename . "-gallery-thumb-type-1", 310, 200, true);
+	add_image_size($themename . "-gallery-thumb-type-2", 225, 150, true);
+	add_image_size($themename . "-small-thumb", 96, 96, true);
 	
 	//posts order
 	add_post_type_support('post', 'page-attributes');
